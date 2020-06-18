@@ -10,11 +10,11 @@ Icons for the 17 goals of the SDGs include some language, and so they are provid
 
 Full-color:
 ```
-https://open-sdg.github.io/sdg-translations/assets/img/goals/[language]/[number].png
+https://norric1admin.github.io/open-climate-translations/assets/img/goals/[language]/[number].png
 ```
 High-contrast:
 ```
-https://open-sdg.github.io/sdg-translations/assets/img/high-contrast/goals/[language]/[number].png
+https://norric1admin.github.io/open-climate-translations/assets/img/high-contrast/goals/[language]/[number].png
 ```
 
 Feel free to use these images directly from these URLs, to avoid having to download and maintain them in your platform.
@@ -23,16 +23,16 @@ Feel free to use these images directly from these URLs, to avoid having to downl
 
 For example, the French icons for Goal 6 would be:
 
-<img alt="Goal 6" src="https://open-sdg.github.io/sdg-translations/assets/img/goals/fr/6.png" />
+<img alt="Goal 6" src="https://norric1admin.github.io/open-climate-translations/assets/img/goals/fr/6.png" />
 
 ```
-https://open-sdg.github.io/sdg-translations/assets/img/goals/fr/6.png
+https://https://norric1admin.github.io/open-climate-translations/assets/img/goals/fr/6.png/assets/img/goals/fr/6.png
 ```
 
-<img alt="Goal 6 - High Contrast" src="https://open-sdg.github.io/sdg-translations/assets/img/high-contrast/goals/fr/6.png" />
+<img alt="Goal 6 - High Contrast" src="https:///norric1admin.github.io/open-climate-translations/assets/img/high-contrast/goals/fr/6.png" />
 
 ```
-https://open-sdg.github.io/sdg-translations/assets/img/high-contrast/goals/fr/6.png
+https:///norric1admin.github.io/open-climate-translations/assets/img/high-contrast/goals/fr/6.png
 ```
 
 ## Goal 18
