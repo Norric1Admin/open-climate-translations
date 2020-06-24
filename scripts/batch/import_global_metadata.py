@@ -65,10 +65,10 @@ def main():
 
   # First, the titles.
   title_spreadsheets = {
-    'en': 'https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement.English.xlsx',
-    'zh': 'https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement.Chinese.xlsx',
-    'es': 'https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement.Spanish.xlsx',
-    'fr': 'https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement.French.xlsx',
+    'en': 'https://github.com/Norric1Admin/open-climate-translations/blob/master/translations/en/Global%20Indicator%20Framework%20after%20refinement.English.xlsx',
+    'zh': 'https://github.com/Norric1Admin/open-climate-translations/blob/master/translations/en/Global%20Indicator%20Framework%20after%20refinement.English.xlsx',
+    'es': 'https://github.com/Norric1Admin/open-climate-translations/blob/master/translations/en/Global%20Indicator%20Framework%20after%20refinement.English.xlsx',
+    'fr': 'https://github.com/Norric1Admin/open-climate-translations/blob/master/translations/en/Global%20Indicator%20Framework%20after%20refinement.English.xlsx',
   }
   for language in title_spreadsheets:
 
