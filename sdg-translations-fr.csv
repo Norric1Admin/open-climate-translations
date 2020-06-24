@@ -121,23 +121,12 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Commentaires et limitations
 metadata_fields:rational_interpretation,Rational and interpretation,Rationnel et interprétation
 metadata_fields:copyright,Copyright,Droits d'auteur
-global_goals:1-short,No poverty,Pas de pauvreté
-global_goals:10-short,Reduced inequalities,Inégalités réduites
-global_goals:11-short,Sustainable cities & communities,Villes et communautés durables
-global_goals:12-short,Responsible consumption and production,Consommation et production responsables
-global_goals:13-short,Climate action,Mesures relatives à la lutte contre les changements climatiques
-global_goals:14-short,Life below water,Vie aquatique
-global_goals:15-short,Life on land,Vie terrestre
-global_goals:16-short,Peace and justice - strong institutions,"Paix, justice et institutions efficaces"
-global_goals:17-short,Partnerships for the goals,Partenariats pour la réalisation des objectifs
-global_goals:2-short,Zero hunger,"Faim ""zéro"""
-global_goals:3-short,Good health and well-being,Bonne santé et bien-être
-global_goals:4-short,Quality education,Éducation de qualité
-global_goals:5-short,Gender equality,Égalité entre les sexes
-global_goals:6-short,Clean water and sanitation,Eau propre et assainissement
-global_goals:7-short,Affordable and clean energy,Energies propres et d'un coût abordable
-global_goals:8-short,Decent jobs and economic growth,Travaux décent et croissance économique
-global_goals:9-short,"Industry, innovation and infrastructure","Industrie, innovation et infrastructure"
+global_goals:1-short,Climate and weather,Climate and weather
+global_goals:2-short,Emissions,Emissions
+global_goals:3-short,Drivers,Drivers
+global_goals:4-short,Impacts,Impacts
+global_goals:5-short,Mitigation,Mitigation
+global_goals:6-short,Adaption,Adaption
 indicator:select_all,Select all,Tout sélectionner
 indicator:clear_all,Clear all,Tout effacer
 indicator:clear_selections,Clear selections,Effacer les sélections
@@ -178,6 +167,12 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,modifier
 indicator:edit_data,Edit Data,Modifier les données
 indicator:edit_metadata,Edit Metadata,Modifier les métadonnées
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
+frontpage:heading,%name data for Sustainable Development Goal indicators,Données %name pour les indicateurs des objectifs de développement durable
+frontpage:download_all,Download all data,Téléchargez toutes les données
+frontpage:zip_file,ZIP file,fichier zip
+frontpage:intro_title,17 goals to transform our world,17 objectifs pour transformer notre monde
+frontpage:intro_body,"The open-climate platform is under construction. It uses the following GitHub repos... <a href=""https://github.com/Norric1Admin/open-climate"">open-climate<a>, <a href=""https://github.com/Norric1Admin/open-climate-site"">open-climate-site<a>, <a href=""https://github.com/Norric1Admin/open-climate-data"">open-climate-data<a>, <a href=""https://github.com/Norric1Admin/open-climate-translations"">open-climate-translations<a>.","Les <a href=""https://www.un.org/sustainabledevelopment/fr"">objectifs de développement durable (SDG)</a> sont un appel universel à l'action pour mettre fin à la pauvreté, protéger la planète et améliorer la vie et les perspectives de chacun, partout. Les 17 objectifs ont été adoptés par tous les États membres des Nations unies en 2015, dans le cadre du <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=F"">programme pour le développement durable de 2030</a>."
 post:posts_by_category,Posts by Category,Messages par catégorie
 post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
 status:reporting_status,Reporting Status,Statut de rapport
