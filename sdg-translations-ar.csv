@@ -197,12 +197,12 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,تغيير
 indicator:edit_data,Edit Data,تغيير البيانات
 indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name بيانات لمؤشرات اهداف التنمية المستدامة
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics indicators.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
+frontpage:heading,%name data for Environmental Statistics indicators,%name بيانات لمؤشرات اهداف التنمية المستدامة
 frontpage:download_all,Download all data,تنزيل جميع البيانات
 frontpage:zip_file,ZIP file,ملف مضغوط
-frontpage:intro_title,17 goals to transform our world,17 هدفا لتحويل عالمنا
-frontpage:intro_body,"The open-climate platform is under construction. It uses the following GitHub repos... <a href=""https://github.com/Norric1Admin/open-climate"">open-climate<a>, <a href=""https://github.com/Norric1Admin/open-climate-site"">open-climate-site<a>, <a href=""https://github.com/Norric1Admin/open-climate-data"">open-climate-data<a>, <a href=""https://github.com/Norric1Admin/open-climate-translations"">open-climate-translations<a>.",إن أهداف التنمية المستدامة (SDGs) هي دعوة عالمية للعمل من أجل القضاء على الفقر وحماية الكوكب وتحسين حياة وآفاق الجميع في كل مكان. تم اعتماد الأهداف الـ 17 من قبل جميع الدول الأعضاء في الأمم المتحدة في عام 2015 ، كجزء من خطة التنمية المستدامة لعام 2030.
+frontpage:intro_title,Indicators For Environmental Statistics (TEST SITE),17 هدفا لتحويل عالمنا
+frontpage:intro_body,The open-climate platform is under construction.,إن أهداف التنمية المستدامة (SDGs) هي دعوة عالمية للعمل من أجل القضاء على الفقر وحماية الكوكب وتحسين حياة وآفاق الجميع في كل مكان. تم اعتماد الأهداف الـ 17 من قبل جميع الدول الأعضاء في الأمم المتحدة في عام 2015 ، كجزء من خطة التنمية المستدامة لعام 2030.
 post:posts_by_category,Posts by Category,المنشورات حسب الفئة
 post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
 status:reporting_status,Reporting Status,وضع الاعلان

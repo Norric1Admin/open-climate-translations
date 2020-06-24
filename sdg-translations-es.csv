@@ -167,12 +167,12 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,Editar
 indicator:edit_data,Edit Data,Editar datos
 indicator:edit_metadata,Edit Metadata,Editar metadatos
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Haga clic en cada objetivo, o %before_link busque, %after_link para las estadísticas %name para Objetivo de desarrollo sostenible global indicadores."
-frontpage:heading,%name data for Sustainable Development Goal indicators,Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics indicators.","Haga clic en cada objetivo, o %before_link busque, %after_link para las estadísticas %name para Objetivo de desarrollo sostenible global indicadores."
+frontpage:heading,%name data for Environmental Statistics indicators,Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible
 frontpage:download_all,Download all data,Descargar todos los datos
 frontpage:zip_file,ZIP file,archivo zip
-frontpage:intro_title,17 goals to transform our world,17 objetivos para transformar nuestro mundo
-frontpage:intro_body,"The open-climate platform is under construction. It uses the following GitHub repos... <a href=""https://github.com/Norric1Admin/open-climate"">open-climate<a>, <a href=""https://github.com/Norric1Admin/open-climate-site"">open-climate-site<a>, <a href=""https://github.com/Norric1Admin/open-climate-data"">open-climate-data<a>, <a href=""https://github.com/Norric1Admin/open-climate-translations"">open-climate-translations<a>.","Los <a href=""https://www.un.org/sustainabledevelopment/es"">Objetivos de Desarrollo Sostenible (SDG)</a> son un llamado universal a la acción para terminar con la pobreza, proteger el planeta y mejorar las vidas y perspectivas de todos, en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros de las Naciones Unidas en 2015, como parte de la <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S"">2030 Agenda para el Desarrollo Sostenible</a>."
+frontpage:intro_title,Indicators For Environmental Statistics (TEST SITE),17 objetivos para transformar nuestro mundo
+frontpage:intro_body,The open-climate platform is under construction.,"Los <a href=""https://www.un.org/sustainabledevelopment/es"">Objetivos de Desarrollo Sostenible (SDG)</a> son un llamado universal a la acción para terminar con la pobreza, proteger el planeta y mejorar las vidas y perspectivas de todos, en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros de las Naciones Unidas en 2015, como parte de la <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S"">2030 Agenda para el Desarrollo Sostenible</a>."
 post:posts_by_category,Posts by Category,Publicaciones por categoría
 post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
 status:reporting_status,Reporting Status,Estado de informes
