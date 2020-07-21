@@ -167,11 +167,11 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,modifier
 indicator:edit_data,Edit Data,Modifier les données
 indicator:edit_metadata,Edit Metadata,Modifier les métadonnées
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics indicators.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
-frontpage:heading,%name data for Environmental Statistics indicators,Données %name pour les indicateurs des objectifs de développement durable
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
+frontpage:heading,%name data for Environmental Statistics measures,Données %name pour les indicateurs des objectifs de développement durable
 frontpage:download_all,Download all data,Téléchargez toutes les données
 frontpage:zip_file,ZIP file,fichier zip
-frontpage:intro_title,Indicators For Environmental Statistics (TEST SITE),17 objectifs pour transformer notre monde
+frontpage:intro_title,Environmental Statistics Measures(TEST SITE),17 objectifs pour transformer notre monde
 frontpage:intro_body,The open-climate platform is under construction.,"Les <a href=""https://www.un.org/sustainabledevelopment/fr"">objectifs de développement durable (SDG)</a> sont un appel universel à l'action pour mettre fin à la pauvreté, protéger la planète et améliorer la vie et les perspectives de chacun, partout. Les 17 objectifs ont été adoptés par tous les États membres des Nations unies en 2015, dans le cadre du <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=F"">programme pour le développement durable de 2030</a>."
 post:posts_by_category,Posts by Category,Messages par catégorie
 post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
