@@ -1,19 +1,4 @@
 ﻿key,en,de
-general:indicator,Metric,Indikator
-general:indicators,Metrics,Indikatoren
-general:goal,Goal,Ziel
-general:goals,Goals,Ziele
-general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
-general:home,Home,Home
-general:loading,Loading search results,Ergebnisse werden geladen
-general:opens_new_window,opens in a new window,in neuem Fenster öffnen
-general:target,Target,Unterziel
-general:targets,Targets,Unterziele
-general:twitter,Twitter,Twitter
-general:facebook,Facebook,Facebook
-general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
-general:page,Page,Website
-general:pages,Pages,Webseiten
 header:skip_link,Skip to main content, Zum Hauptinhalt springen
 header:alpha,Alpha,Alpha-Version
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
@@ -22,46 +7,8 @@ header:high_contrast,High contrast,Hoher kontrast
 header:default_contrast,Default contrast,Standard kontrast
 header:enable_high_contrast,Enable high contrast,Aktivieren Sie hohen Kontrast
 header:disable_high_contrast,Disable high contrast,Hoher Kontrast deaktivieren
-global_targets:1-1-title,UK Climate Series,UK Climate Series
-global_targets:1-2-title,UK Climate Projections,UK Climate Projections
-global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
-global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
-global_targets:3-1-title,GHG activities,GHG activities
-global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
-global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
-global_targets:3-4-title,Population,Population
-global_targets:3-5-title,Energy statistics,Energy statistics
-global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
-global_targets:4-2-title,Air Quality,Air Quality
-global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
-global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
-global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
-global_targets:5-2-title,Green economy,Green economy
-global_targets:5-3-title,Population growth,Population growth
-global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
-global_targets:5-5-title,Expenditure and investment,Expenditure and investment
-global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
-global_targets:6-2-title,Commercial natural environment,Commercial natural environment
-global_targets:6-3-title,People and the built environment,People and the built environment
-global_targets:6-4-title,Critical infrastructure,Critical infrastructure
-global_targets:6-5-title,Business,Business
-global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
-search:search,Search,Suche
-search:indicator_search,Indicator search,Indikatorensuche
-search:search_results_for,Search results for,Ergebnisse zu
-search:found_in,found in,gefunden unter
-search:keywords,Keywords,Schlagworte
-search:no_results,No results,Keine Ergebnisse
-search:did_you_mean,did you mean,meintest du
-menu:menu,Menu,Menü
-menu:reporting_status,Reporting Status,Berichtsstatus
-menu:about,About,Über uns
-menu:publications,Publications,Veröffentlichungen
-menu:guidance,Guidance,Technische Hinweise
-menu:faq,FAQ,FAQ
-menu:contact_us,Contact us,Kontakt
-menu:cookies,Cookies,Cookies
-menu:updates,Updates,
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
 metadata_fields:other_info,Other information,Weitere Informationen
 metadata_fields:computation_calculations,Calculations,Methodik
 metadata_fields:computation_definitions,Definitions,Definitionen
@@ -145,6 +92,36 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
 metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
 metadata_fields:copyright,Copyright,Urheberrechte
+status:reporting_status,Reporting Status,Berichtsstatus
+status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
+status:reported_online,Reported online,Daten verfügbar
+status:statistics_in_progress,Statistics in progress,in Bearbeitung
+status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
+status:not_applicable,Not applicable,Nicht zutreffend
+status:status_by_goal,Status by goal,Status nach Ziel
+status:status_by_field,Status by %field,Status von %field
+search:search,Search,Suche
+search:indicator_search,Indicator search,Indikatorensuche
+search:search_results_for,Search results for,Ergebnisse zu
+search:found_in,found in,gefunden unter
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:did_you_mean,did you mean,meintest du
+general:indicator,Metric,Indikator
+general:indicators,Metrics,Indikatoren
+general:goal,Goal,Ziel
+general:goals,Goals,Ziele
+general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
+general:home,Home,Home
+general:loading,Loading search results,Ergebnisse werden geladen
+general:opens_new_window,opens in a new window,in neuem Fenster öffnen
+general:target,Target,Unterziel
+general:targets,Targets,Unterziele
+general:twitter,Twitter,Twitter
+general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
+general:page,Page,Website
+general:pages,Pages,Webseiten
 global_goals:1-short,Climate and weather,Climate and weather
 global_goals:1-title,Climate and weather,Climate and weather
 global_goals:2-short,Emissions,Emissions
@@ -157,6 +134,45 @@ global_goals:5-short,Mitigation,Mitigation
 global_goals:5-title,Mitigation,Mitigation
 global_goals:6-short,Adaption,Adaption
 global_goals:6-title,Adaption,Adaption
+menu:menu,Menu,Menü
+menu:reporting_status,Reporting Status,Berichtsstatus
+menu:about,About,Über uns
+menu:publications,Publications,Veröffentlichungen
+menu:guidance,Guidance,Technische Hinweise
+menu:faq,FAQ,FAQ
+menu:contact_us,Contact us,Kontakt
+menu:cookies,Cookies,Cookies
+menu:updates,Updates,
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
+frontpage:heading,%name data for Environmental Statistics measures,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
+frontpage:download_all,Download all data,Laden Sie alle Daten herunter
+frontpage:zip_file,ZIP file,zip-Datei
+frontpage:intro_title,Environmental Statistics Measures(TEST SITE),"17 Ziele, um unsere Welt zu verändern"
+frontpage:intro_body,The open-climate platform is under construction.,"Die <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Nachhaltige Entwicklungsziele (SDGs)</a> sind ein universeller Aufruf zum Handeln, um die Armut zu beenden, den Planeten zu schützen und das Leben und die Aussichten aller und überall zu verbessern. Die 17 Ziele wurden 2015 von allen UN-Mitgliedsstaaten als Teil der <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda für nachhaltige Entwicklung</a> angenommen."
+global_targets:1-1-title,UK Climate Series,UK Climate Series
+global_targets:1-2-title,UK Climate Projections,UK Climate Projections
+global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
+global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
+global_targets:3-1-title,GHG activities,GHG activities
+global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
+global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
+global_targets:3-4-title,Population,Population
+global_targets:3-5-title,Energy statistics,Energy statistics
+global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
+global_targets:4-2-title,Air Quality,Air Quality
+global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
+global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
+global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
+global_targets:5-2-title,Green economy,Green economy
+global_targets:5-3-title,Population growth,Population growth
+global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
+global_targets:5-5-title,Expenditure and investment,Expenditure and investment
+global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
+global_targets:6-2-title,Commercial natural environment,Commercial natural environment
+global_targets:6-3-title,People and the built environment,People and the built environment
+global_targets:6-4-title,Critical infrastructure,Critical infrastructure
+global_targets:6-5-title,Business,Business
+global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
 indicator:select_all,Select all,Alle auswählen
 indicator:clear_all,Clear all,Auswahl aufheben
 indicator:clear_selections,Clear selections,Auswahl aufheben
@@ -197,22 +213,6 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,Bearbeiten
 indicator:edit_data,Edit Data,Daten bearbeiten
 indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
-frontpage:heading,%name data for Environmental Statistics measures,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
-frontpage:download_all,Download all data,Laden Sie alle Daten herunter
-frontpage:zip_file,ZIP file,zip-Datei
-frontpage:intro_title,Environmental Statistics Measures(TEST SITE),"17 Ziele, um unsere Welt zu verändern"
-frontpage:intro_body,The open-climate platform is under construction.,"Die <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Nachhaltige Entwicklungsziele (SDGs)</a> sind ein universeller Aufruf zum Handeln, um die Armut zu beenden, den Planeten zu schützen und das Leben und die Aussichten aller und überall zu verbessern. Die 17 Ziele wurden 2015 von allen UN-Mitgliedsstaaten als Teil der <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda für nachhaltige Entwicklung</a> angenommen."
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
-status:reporting_status,Reporting Status,Berichtsstatus
-status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
-status:reported_online,Reported online,Daten verfügbar
-status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
-status:not_applicable,Not applicable,Nicht zutreffend
-status:status_by_goal,Status by goal,Status nach Ziel
-status:status_by_field,Status by %field,Status von %field
 global_indicators:1-1-1-title,Historic trends,Historic trends
 global_indicators:1-2-1-title,Change over time,Change over time
 global_indicators:1-2-2-title,Global indicators (TBC),Global indicators (TBC)

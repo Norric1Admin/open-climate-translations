@@ -1,19 +1,4 @@
 ﻿key,en,ar
-general:indicator,Metric,مؤشر
-general:indicators,Metrics,مؤشرات
-general:goal,Goal,هدف
-general:goals,Goals,اهداف
-general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
-general:home,Home,الصفحة الرئيسية  (Home page)
-general:loading,Loading search results,تحميل نتائج البحث
-general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
-general:target,Target,استهداف
-general:targets,Targets,أهداف
-general:twitter,Twitter,تويتر
-general:facebook,Facebook,فيسبوك
-general:built_using_open_sdg,Built using Open SDG,بنيت باستخدام Open SDG
-general:page,Page,صفحة ويب
-general:pages,Pages,صفحات الانترنت
 header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
 header:alpha,Alpha,ألفا
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"
@@ -22,46 +7,8 @@ header:high_contrast,High contrast,تباين عالي
 header:default_contrast,Default contrast,النقيض الافتراضي
 header:enable_high_contrast,Enable high contrast,تمكين التباين العالي
 header:disable_high_contrast,Disable high contrast,تعطيل التباين العالي
-global_targets:1-1-title,UK Climate Series,UK Climate Series
-global_targets:1-2-title,UK Climate Projections,UK Climate Projections
-global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
-global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
-global_targets:3-1-title,GHG activities,GHG activities
-global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
-global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
-global_targets:3-4-title,Population,Population
-global_targets:3-5-title,Energy statistics,Energy statistics
-global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
-global_targets:4-2-title,Air Quality,Air Quality
-global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
-global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
-global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
-global_targets:5-2-title,Green economy,Green economy
-global_targets:5-3-title,Population growth,Population growth
-global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
-global_targets:5-5-title,Expenditure and investment,Expenditure and investment
-global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
-global_targets:6-2-title,Commercial natural environment,Commercial natural environment
-global_targets:6-3-title,People and the built environment,People and the built environment
-global_targets:6-4-title,Critical infrastructure,Critical infrastructure
-global_targets:6-5-title,Business,Business
-global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
-search:search,Search,بحث
-search:indicator_search,Indicator search,بحث المؤشر
-search:search_results_for,Search results for,نتائج البحث عن
-search:found_in,found in,موجود في
-search:keywords,Keywords,الكلمات الدالة
-search:no_results,No results,لا يوجد نتائج
-search:did_you_mean,did you mean,هل تعني
-menu:menu,Menu,قائمة
-menu:reporting_status,Reporting Status,حالة التقارير
-menu:about,About,عن
-menu:publications,Publications,منشورات
-menu:guidance,Guidance,توجيه
-menu:faq,FAQ,أسئلة شائعة
-menu:contact_us,Contact us,اتصل بنا
-menu:cookies,Cookies,ملفات تعريف الارتباط
-menu:updates,Updates,
+post:posts_by_category,Posts by Category,المنشورات حسب الفئة
+post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
 metadata_fields:other_info,Other information,معلومات اخرى
 metadata_fields:computation_calculations,Calculations,عمليات حسابية
 metadata_fields:computation_definitions,Definitions,تعريفات
@@ -145,6 +92,36 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,التعليقات والقيود
 metadata_fields:rational_interpretation,Rational and interpretation,العقلاني والتفسير
 metadata_fields:copyright,Copyright,حقوق النشر
+status:reporting_status,Reporting Status,وضع الاعلان
+status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
+status:reported_online,Reported online,اعلن على الانترنت
+status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
+status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
+status:not_applicable,Not applicable,لايمكن تطبيقه
+status:status_by_goal,Status by goal,الحالة حسب الهدف
+status:status_by_field,Status by %field,الحالة بواسطة %field
+search:search,Search,بحث
+search:indicator_search,Indicator search,بحث المؤشر
+search:search_results_for,Search results for,نتائج البحث عن
+search:found_in,found in,موجود في
+search:keywords,Keywords,الكلمات الدالة
+search:no_results,No results,لا يوجد نتائج
+search:did_you_mean,did you mean,هل تعني
+general:indicator,Metric,مؤشر
+general:indicators,Metrics,مؤشرات
+general:goal,Goal,هدف
+general:goals,Goals,اهداف
+general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
+general:home,Home,الصفحة الرئيسية  (Home page)
+general:loading,Loading search results,تحميل نتائج البحث
+general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
+general:target,Target,استهداف
+general:targets,Targets,أهداف
+general:twitter,Twitter,تويتر
+general:facebook,Facebook,فيسبوك
+general:built_using_open_sdg,Built using Open SDG,بنيت باستخدام Open SDG
+general:page,Page,صفحة ويب
+general:pages,Pages,صفحات الانترنت
 global_goals:1-short,Climate and weather,Climate and weather
 global_goals:1-title,Climate and weather,Climate and weather
 global_goals:2-short,Emissions,Emissions
@@ -157,6 +134,45 @@ global_goals:5-short,Mitigation,Mitigation
 global_goals:5-title,Mitigation,Mitigation
 global_goals:6-short,Adaption,Adaption
 global_goals:6-title,Adaption,Adaption
+menu:menu,Menu,قائمة
+menu:reporting_status,Reporting Status,حالة التقارير
+menu:about,About,عن
+menu:publications,Publications,منشورات
+menu:guidance,Guidance,توجيه
+menu:faq,FAQ,أسئلة شائعة
+menu:contact_us,Contact us,اتصل بنا
+menu:cookies,Cookies,ملفات تعريف الارتباط
+menu:updates,Updates,
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
+frontpage:heading,%name data for Environmental Statistics measures,%name بيانات لمؤشرات اهداف التنمية المستدامة
+frontpage:download_all,Download all data,تنزيل جميع البيانات
+frontpage:zip_file,ZIP file,ملف مضغوط
+frontpage:intro_title,Environmental Statistics Measures(TEST SITE),17 هدفا لتحويل عالمنا
+frontpage:intro_body,The open-climate platform is under construction.,إن أهداف التنمية المستدامة (SDGs) هي دعوة عالمية للعمل من أجل القضاء على الفقر وحماية الكوكب وتحسين حياة وآفاق الجميع في كل مكان. تم اعتماد الأهداف الـ 17 من قبل جميع الدول الأعضاء في الأمم المتحدة في عام 2015 ، كجزء من خطة التنمية المستدامة لعام 2030.
+global_targets:1-1-title,UK Climate Series,UK Climate Series
+global_targets:1-2-title,UK Climate Projections,UK Climate Projections
+global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
+global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
+global_targets:3-1-title,GHG activities,GHG activities
+global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
+global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
+global_targets:3-4-title,Population,Population
+global_targets:3-5-title,Energy statistics,Energy statistics
+global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
+global_targets:4-2-title,Air Quality,Air Quality
+global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
+global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
+global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
+global_targets:5-2-title,Green economy,Green economy
+global_targets:5-3-title,Population growth,Population growth
+global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
+global_targets:5-5-title,Expenditure and investment,Expenditure and investment
+global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
+global_targets:6-2-title,Commercial natural environment,Commercial natural environment
+global_targets:6-3-title,People and the built environment,People and the built environment
+global_targets:6-4-title,Critical infrastructure,Critical infrastructure
+global_targets:6-5-title,Business,Business
+global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
 indicator:select_all,Select all,اختيار الكل
 indicator:clear_all,Clear all,ازالة الكل
 indicator:clear_selections,Clear selections,إزالة المحدد
@@ -197,22 +213,6 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,تغيير
 indicator:edit_data,Edit Data,تغيير البيانات
 indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
-frontpage:heading,%name data for Environmental Statistics measures,%name بيانات لمؤشرات اهداف التنمية المستدامة
-frontpage:download_all,Download all data,تنزيل جميع البيانات
-frontpage:zip_file,ZIP file,ملف مضغوط
-frontpage:intro_title,Environmental Statistics Measures(TEST SITE),17 هدفا لتحويل عالمنا
-frontpage:intro_body,The open-climate platform is under construction.,إن أهداف التنمية المستدامة (SDGs) هي دعوة عالمية للعمل من أجل القضاء على الفقر وحماية الكوكب وتحسين حياة وآفاق الجميع في كل مكان. تم اعتماد الأهداف الـ 17 من قبل جميع الدول الأعضاء في الأمم المتحدة في عام 2015 ، كجزء من خطة التنمية المستدامة لعام 2030.
-post:posts_by_category,Posts by Category,المنشورات حسب الفئة
-post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
-status:reporting_status,Reporting Status,وضع الاعلان
-status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
-status:reported_online,Reported online,اعلن على الانترنت
-status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
-status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
-status:not_applicable,Not applicable,لايمكن تطبيقه
-status:status_by_goal,Status by goal,الحالة حسب الهدف
-status:status_by_field,Status by %field,الحالة بواسطة %field
 global_indicators:1-1-1-title,Historic trends,Historic trends
 global_indicators:1-2-1-title,Change over time,Change over time
 global_indicators:1-2-2-title,Global indicators (TBC),Global indicators (TBC)

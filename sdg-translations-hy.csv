@@ -1,19 +1,4 @@
 ﻿key,en,hy
-general:indicator,Metric,Ցուցանիշ
-general:indicators,Metrics,Ցուցանիշներ
-general:goal,Goal,Նպատակը
-general:goals,Goals,Նպատակները
-general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
-general:home,Home,Գլխավոր էջ
-general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
-general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
-general:target,Target,Թիրախը
-general:targets,Targets,Թիրախներ
-general:twitter,Twitter,Թվիթերի
-general:facebook,Facebook,Ֆեյսբուք
-general:built_using_open_sdg,Built using Open SDG,Կառուցվել է Open SDG օգտագործմամբ
-general:page,Page,ինտերնետային էջ
-general:pages,Pages,վեբ էջեր
 header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
 header:alpha,Alpha,Ալֆա
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
@@ -22,46 +7,8 @@ header:high_contrast,High contrast,բարձր հակադրություն
 header:default_contrast,Default contrast,լռելյայն հակադրություն
 header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
 header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
-global_targets:1-1-title,UK Climate Series,UK Climate Series
-global_targets:1-2-title,UK Climate Projections,UK Climate Projections
-global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
-global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
-global_targets:3-1-title,GHG activities,GHG activities
-global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
-global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
-global_targets:3-4-title,Population,Population
-global_targets:3-5-title,Energy statistics,Energy statistics
-global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
-global_targets:4-2-title,Air Quality,Air Quality
-global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
-global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
-global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
-global_targets:5-2-title,Green economy,Green economy
-global_targets:5-3-title,Population growth,Population growth
-global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
-global_targets:5-5-title,Expenditure and investment,Expenditure and investment
-global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
-global_targets:6-2-title,Commercial natural environment,Commercial natural environment
-global_targets:6-3-title,People and the built environment,People and the built environment
-global_targets:6-4-title,Critical infrastructure,Critical infrastructure
-global_targets:6-5-title,Business,Business
-global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
-search:search,Search,Որոնում
-search:indicator_search,Indicator search,Ցուցանիշների որոնում
-search:search_results_for,Search results for,Որոնման արդյունքներ
-search:found_in,found in,Գտնված է
-search:keywords,Keywords,Հիմնաբառեր
-search:no_results,No results,Արդյունքներ չկան
-search:did_you_mean,did you mean,դու ի նկատի ունեիր
-menu:menu,Menu,Ցանկ
-menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-menu:about,About,Վերաբերյալ
-menu:publications,Publications,Հրապարակումներ
-menu:guidance,Guidance,Ուղեցույց
-menu:faq,FAQ,ՀՏՀ
-menu:contact_us,Contact us,Կապ մեզ հետ
-menu:cookies,Cookies,Քուկիներ 
-menu:updates,Updates,
+post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
+post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
 metadata_fields:other_info,Other information,Այլ տեղեկություններ 
 metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
 metadata_fields:computation_definitions,Definitions,Սահմանումներ 
@@ -145,6 +92,36 @@ metadata_fields:international_comparability,Comparability with international dat
 metadata_fields:comments_limitations,Comments and limitations,Մեկնաբանություններ և սահմանափակումներ
 metadata_fields:rational_interpretation,Rational and interpretation,Ռացիոնալ և մեկնաբանություն
 metadata_fields:copyright,Copyright,Հեղինակային իրավունք
+status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
+status:reported_online,Reported online,Առցանց հաշվետվություն 
+status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
+status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
+status:not_applicable,Not applicable,ոչ կիրառելի
+status:status_by_goal,Status by goal,Գոլի կարգավիճակ
+status:status_by_field,Status by %field,Կարգավիճակը %field
+search:search,Search,Որոնում
+search:indicator_search,Indicator search,Ցուցանիշների որոնում
+search:search_results_for,Search results for,Որոնման արդյունքներ
+search:found_in,found in,Գտնված է
+search:keywords,Keywords,Հիմնաբառեր
+search:no_results,No results,Արդյունքներ չկան
+search:did_you_mean,did you mean,դու ի նկատի ունեիր
+general:indicator,Metric,Ցուցանիշ
+general:indicators,Metrics,Ցուցանիշներ
+general:goal,Goal,Նպատակը
+general:goals,Goals,Նպատակները
+general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
+general:home,Home,Գլխավոր էջ
+general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
+general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
+general:target,Target,Թիրախը
+general:targets,Targets,Թիրախներ
+general:twitter,Twitter,Թվիթերի
+general:facebook,Facebook,Ֆեյսբուք
+general:built_using_open_sdg,Built using Open SDG,Կառուցվել է Open SDG օգտագործմամբ
+general:page,Page,ինտերնետային էջ
+general:pages,Pages,վեբ էջեր
 global_goals:1-short,Climate and weather,Climate and weather
 global_goals:1-title,Climate and weather,Climate and weather
 global_goals:2-short,Emissions,Emissions
@@ -157,6 +134,45 @@ global_goals:5-short,Mitigation,Mitigation
 global_goals:5-title,Mitigation,Mitigation
 global_goals:6-short,Adaption,Adaption
 global_goals:6-title,Adaption,Adaption
+menu:menu,Menu,Ցանկ
+menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+menu:about,About,Վերաբերյալ
+menu:publications,Publications,Հրապարակումներ
+menu:guidance,Guidance,Ուղեցույց
+menu:faq,FAQ,ՀՏՀ
+menu:contact_us,Contact us,Կապ մեզ հետ
+menu:cookies,Cookies,Քուկիներ 
+menu:updates,Updates,
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+frontpage:heading,%name data for Environmental Statistics measures,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
+frontpage:download_all,Download all data,Ներբեռնեք բոլոր տվյալները
+frontpage:zip_file,ZIP file,ZIP ֆայլ
+frontpage:intro_title,Environmental Statistics Measures(TEST SITE),17 նպատակ ՝ մեր աշխարհը վերափոխելու համար
+frontpage:intro_body,The open-climate platform is under construction.,"<a href=""https://www.un.org/sustainabledevelopment/ru/"">Կայուն զարգացման նպատակները (SDG)</a> - ը համընդհանուր կոչ է ՝ ուղղված աղքատությանը վերջ տալու, մոլորակին պաշտպանելու և բարելավել բոլորի կյանքը և հեռանկարները, ամենուր: 17 նպատակներն ընդունվել են ՄԱԿ-ի բոլոր անդամ պետությունների կողմից 2015 թ.-ին, որպես <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 օրակարգ կայուն զարգացման համար</a>:"
+global_targets:1-1-title,UK Climate Series,UK Climate Series
+global_targets:1-2-title,UK Climate Projections,UK Climate Projections
+global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
+global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
+global_targets:3-1-title,GHG activities,GHG activities
+global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
+global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
+global_targets:3-4-title,Population,Population
+global_targets:3-5-title,Energy statistics,Energy statistics
+global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
+global_targets:4-2-title,Air Quality,Air Quality
+global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
+global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
+global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
+global_targets:5-2-title,Green economy,Green economy
+global_targets:5-3-title,Population growth,Population growth
+global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
+global_targets:5-5-title,Expenditure and investment,Expenditure and investment
+global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
+global_targets:6-2-title,Commercial natural environment,Commercial natural environment
+global_targets:6-3-title,People and the built environment,People and the built environment
+global_targets:6-4-title,Critical infrastructure,Critical infrastructure
+global_targets:6-5-title,Business,Business
+global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
 indicator:select_all,Select all,Ընտրել ամբողջը
 indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
 indicator:clear_selections,Clear selections,Մաքրել նշվածները 
@@ -197,22 +213,6 @@ indicator:global_metadata_blurb,"This table provides information on metadata for
 indicator:edit,Edit,Խմբագրել
 indicator:edit_data,Edit Data,Խմբագրել տվյալները
 indicator:edit_metadata,Edit Metadata,Խմբագրել մետատվյալները
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
-frontpage:heading,%name data for Environmental Statistics measures,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
-frontpage:download_all,Download all data,Ներբեռնեք բոլոր տվյալները
-frontpage:zip_file,ZIP file,ZIP ֆայլ
-frontpage:intro_title,Environmental Statistics Measures(TEST SITE),17 նպատակ ՝ մեր աշխարհը վերափոխելու համար
-frontpage:intro_body,The open-climate platform is under construction.,"<a href=""https://www.un.org/sustainabledevelopment/ru/"">Կայուն զարգացման նպատակները (SDG)</a> - ը համընդհանուր կոչ է ՝ ուղղված աղքատությանը վերջ տալու, մոլորակին պաշտպանելու և բարելավել բոլորի կյանքը և հեռանկարները, ամենուր: 17 նպատակներն ընդունվել են ՄԱԿ-ի բոլոր անդամ պետությունների կողմից 2015 թ.-ին, որպես <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 օրակարգ կայուն զարգացման համար</a>:"
-post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
-post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
-status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
-status:reported_online,Reported online,Առցանց հաշվետվություն 
-status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
-status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
-status:not_applicable,Not applicable,ոչ կիրառելի
-status:status_by_goal,Status by goal,Գոլի կարգավիճակ
-status:status_by_field,Status by %field,Կարգավիճակը %field
 global_indicators:1-1-1-title,Historic trends,Historic trends
 global_indicators:1-2-1-title,Change over time,Change over time
 global_indicators:1-2-2-title,Global indicators (TBC),Global indicators (TBC)
