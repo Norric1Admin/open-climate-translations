@@ -141,7 +141,7 @@ frontpage:instructions,"Click on each goal, or %before_link search, %after_link 
 frontpage:heading,%name data for Environmental Statistics measures,%name可持续发展目标指标的数据
 frontpage:download_all,Download all data,下载所有数据
 frontpage:zip_file,ZIP file,ZIP文件
-frontpage:intro_title,Environmental Statistics Measures(TEST SITE),改变世界的17个目标
+frontpage:intro_title,Environmental Statistics Measures (TEST SITE),改变世界的17个目标
 frontpage:intro_body,The open-climate platform is under construction.,"<a href=""https://www.un.org/sustainabledevelopment/zh"">可持续发展目标</a>是消除贫困，保护地球和 改善世界各地每个人的生活和前景。 作为<a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=C""> 2030年可持续发展议程</a>。"
 indicator:select_all,Select all,全选
 indicator:clear_all,Clear all,全部清除
