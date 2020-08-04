@@ -3,9 +3,9 @@ title: SDG Translations
 description: >-
   A project to compile and translate text related to the United Nation's
   Sustainable Development Goals, and then provide those translations as JSON.
-baseurl: "open-climate-translations"
+baseurl: "/open-climate-translations"
 url: "https://norric1admin.github.io"
-repo: "https://github.com//norric1admin.github.io/open-climate-translations"
+repo: "https://github.com/norric1admin/open-climate-translations"
 
 # Build settings
 markdown: kramdown
