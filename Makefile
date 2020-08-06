@@ -4,7 +4,7 @@ clean:
 	rm -fr _site
 
 test:
-        python scripts/check_translations.py
+	python scripts/check_translations.py
 
 build_data:
 	python scripts/build_translations.py
