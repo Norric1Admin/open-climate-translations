@@ -3,8 +3,8 @@ all: clean test build_data build_site
 clean:
 	rm -fr _site
 
-test:
-	python scripts/check_translations.py
+# test:
+# 	python scripts/check_translations.py
 
 build_data:
 	python scripts/build_translations.py
