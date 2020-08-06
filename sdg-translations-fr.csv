@@ -141,7 +141,7 @@ frontpage:instructions,"Click on each goal, or %before_link search, %after_link 
 frontpage:heading,%name data for Environmental Statistics measures,Données %name pour les indicateurs des objectifs de développement durable
 frontpage:download_all,Download all data,Téléchargez toutes les données
 frontpage:zip_file,ZIP file,fichier zip
-frontpage:intro_title,Environmental Statistics Measures (TEST SITE),17 objectifs pour transformer notre monde
+frontpage:intro_title,Environmental Statistics Metrics (TEST SITE),17 objectifs pour transformer notre monde
 frontpage:intro_body,The open-climate platform is under construction.,"Les <a href=""https://www.un.org/sustainabledevelopment/fr"">objectifs de développement durable (SDG)</a> sont un appel universel à l'action pour mettre fin à la pauvreté, protéger la planète et améliorer la vie et les perspectives de chacun, partout. Les 17 objectifs ont été adoptés par tous les États membres des Nations unies en 2015, dans le cadre du <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=F"">programme pour le développement durable de 2030</a>."
 indicator:select_all,Select all,Tout sélectionner
 indicator:clear_all,Clear all,Tout effacer
