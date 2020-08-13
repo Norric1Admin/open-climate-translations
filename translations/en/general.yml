@@ -3,16 +3,16 @@ indicator: Metric
 # This is the plural version of the indicator key
 indicators: Metrics
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: Goal
+goal: Area
 # This is the plural version of the goal key
-goals: Goals
+goals: Areas
 sdg: Sustainable Development Goals
 # This refers to the 'home page' of a website
 home: Home
 loading: Loading search results
 opens_new_window: opens in a new window
-target: Target
-targets: Targets
+target: Topic
+targets: Topics
 twitter: Twitter
 facebook: Facebook
 built_using_open_sdg: Built using Open SDG
