@@ -99,14 +99,14 @@ metadata_fields:computation_calculations,Calculations,Есептеулер
 metadata_fields:computation_definitions,Definitions,Анықтама
 metadata_fields:computation_units,Unit of measurement,Өлшем бірлігі
 metadata_fields:goal_meta_link,Link to UN metadata,БҰҰ метадеректеріне сілтеме
-metadata_fields:indicator,Indicator number,Көрсеткіштің нөмірі
-metadata_fields:indicator_definition,Global indicator description,Жаһандық көрсеткіштің сипаттамасы
-metadata_fields:indicator_name,Indicator name,Көрсеткіштің атауы
+metadata_fields:indicator,Metric code,Көрсеткіштің нөмірі
+metadata_fields:indicator_definition,Global metric description,Жаһандық көрсеткіштің сипаттамасы
+metadata_fields:indicator_name,Metric name,Көрсеткіштің атауы
 metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Көрсеткіштердің бейне тәртібі (мақсаттар парақшасында)
 metadata_fields:national_data_update_url,Data last updated,Деректер соңғы рет жаңартылды
 metadata_fields:national_geographical_coverage,Geographical coverage,Географиялық қамту
-metadata_fields:national_indicator_available,Indicator available,Көрсеткіш қолжетімді
-metadata_fields:national_indicator_description,Indicator description,Көрсеткіштің сипаттамасы
+metadata_fields:national_indicator_available,Metric available,Көрсеткіш қолжетімді
+metadata_fields:national_indicator_description,Metric description,Көрсеткіштің сипаттамасы
 metadata_fields:national_metadata_update_url,Metadata last updated,Метадеректер соңғы рет жаңартылды
 metadata_fields:source_contact_1,Contact details,Байланысу ақпараты
 metadata_fields:source_contact_2,Contact details,Байланысу ақпараты
@@ -168,8 +168,8 @@ metadata_fields:source_url_3,Link to data source,Дереккөздерге сі
 metadata_fields:source_url_4,Link to data source,Дереккөздерге сілтеме
 metadata_fields:source_url_5,Link to data source,Дереккөздерге сілтеме
 metadata_fields:source_url_6,Link to data source,Дереккөздерге сілтеме
-metadata_fields:target,Target name,Міндеттің атауы
-metadata_fields:target_id,Target number,Міндеттің нөмірі
+metadata_fields:target,Topic name,Міндеттің атауы
+metadata_fields:target_id,Topic number,Міндеттің нөмірі
 metadata_fields:un_custodian_agency,UN custodian agency,БҰҰ депозитарлық мекемесі
 metadata_fields:un_designated_tier,UN designated tier,БҰҰ-мен тағайындалған деңгейі
 metadata_fields:quality_assurance,Quality assurance,Сапа кепілдігі

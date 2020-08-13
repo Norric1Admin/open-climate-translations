@@ -75,14 +75,14 @@ metadata_fields:computation_calculations,Calculations,计算
 metadata_fields:computation_definitions,Definitions,定义
 metadata_fields:computation_units,Unit of measurement,计量单位
 metadata_fields:goal_meta_link,Link to UN metadata,连接到联合国元数据
-metadata_fields:indicator,Indicator number,指标数字
-metadata_fields:indicator_definition,Global indicator description,全球指标描述
-metadata_fields:indicator_name,Indicator name,指标名称
+metadata_fields:indicator,Metric code,指标数字
+metadata_fields:indicator_definition,Global metric description,全球指标描述
+metadata_fields:indicator_name,Metric name,指标名称
 metadata_fields:indicator_sort_order,Indicator display order (within Goal page),指标显示顺序（在目标页面内）
 metadata_fields:national_data_update_url,Data last updated,数据最后更新时间
 metadata_fields:national_geographical_coverage,Geographical coverage,地域覆盖范围
-metadata_fields:national_indicator_available,Indicator available,可用指标
-metadata_fields:national_indicator_description,Indicator description,指标描述
+metadata_fields:national_indicator_available,Metric available,可用指标
+metadata_fields:national_indicator_description,Metric description,指标描述
 metadata_fields:national_metadata_update_url,Metadata last updated,元数据最后更新时间
 metadata_fields:source_contact_1,Contact details,联系方式
 metadata_fields:source_contact_2,Contact details,联系方式
@@ -144,8 +144,8 @@ metadata_fields:source_url_3,Link to data source,连接到数据源
 metadata_fields:source_url_4,Link to data source,连接到数据源
 metadata_fields:source_url_5,Link to data source,连接到数据源
 metadata_fields:source_url_6,Link to data source,连接到数据源
-metadata_fields:target,Target name,目标名称
-metadata_fields:target_id,Target number,目标数字
+metadata_fields:target,Topic name,目标名称
+metadata_fields:target_id,Topic number,目标数字
 metadata_fields:un_custodian_agency,UN custodian agency,联合国托管机构
 metadata_fields:un_designated_tier,UN designated tier,联合国指定层
 metadata_fields:quality_assurance,Quality assurance,质量保证

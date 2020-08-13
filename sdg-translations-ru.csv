@@ -99,14 +99,14 @@ metadata_fields:computation_calculations,Calculations,Расчёты
 metadata_fields:computation_definitions,Definitions,Определения
 metadata_fields:computation_units,Unit of measurement,Единица измерения
 metadata_fields:goal_meta_link,Link to UN metadata,Ссылка на метаданные ООН
-metadata_fields:indicator,Indicator number,Номер показателя
-metadata_fields:indicator_definition,Global indicator description,Описание глобального показателя
-metadata_fields:indicator_name,Indicator name,Название показателя
+metadata_fields:indicator,Metric code,Номер показателя
+metadata_fields:indicator_definition,Global metric description,Описание глобального показателя
+metadata_fields:indicator_name,Metric name,Название показателя
 metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Порядок отображения показателей (на странице целей)
 metadata_fields:national_data_update_url,Data last updated,Последний раз данные обновлялись
 metadata_fields:national_geographical_coverage,Geographical coverage,Географический охват
-metadata_fields:national_indicator_available,Indicator available,Показатель доступен
-metadata_fields:national_indicator_description,Indicator description,Описание показателя
+metadata_fields:national_indicator_available,Metric available,Показатель доступен
+metadata_fields:national_indicator_description,Metric description,Описание показателя
 metadata_fields:national_metadata_update_url,Metadata last updated, Последний раз метаданные обновлялись
 metadata_fields:source_contact_1,Contact details,Контактные данные
 metadata_fields:source_contact_2,Contact details,Контактные данные
@@ -168,8 +168,8 @@ metadata_fields:source_url_3,Link to data source,Ссылка на источн�
 metadata_fields:source_url_4,Link to data source,Ссылка на источник данных
 metadata_fields:source_url_5,Link to data source,Ссылка на источник данных
 metadata_fields:source_url_6,Link to data source,Ссылка на источник данных
-metadata_fields:target,Target name,Название задачи
-metadata_fields:target_id,Target number,Номер задачи
+metadata_fields:target,Topic name,Название задачи
+metadata_fields:target_id,Topic number,Номер задачи
 metadata_fields:un_custodian_agency,UN custodian agency,Депозитарное учреждение ООН 
 metadata_fields:un_designated_tier,UN designated tier,Назначенный ООН уровень
 metadata_fields:quality_assurance,Quality assurance,Гарантия качества

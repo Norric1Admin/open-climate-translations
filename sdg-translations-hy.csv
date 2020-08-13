@@ -99,14 +99,14 @@ metadata_fields:computation_calculations,Calculations,Հաշվարկներ
 metadata_fields:computation_definitions,Definitions,Սահմանումներ 
 metadata_fields:computation_units,Unit of measurement,Չափման միավորը 
 metadata_fields:goal_meta_link,Link to UN metadata,Հղում ՄԱԿ-ի մետատվյալների
-metadata_fields:indicator,Indicator number,Ցուցանիշի համարը 
-metadata_fields:indicator_definition,Global indicator description,Գլոբալ ցուցանիշի նկարագրությունը 
-metadata_fields:indicator_name,Indicator name,Ցուցանիշի անվանումը 
+metadata_fields:indicator,Metric code,Ցուցանիշի համարը 
+metadata_fields:indicator_definition,Global metric description,Գլոբալ ցուցանիշի նկարագրությունը 
+metadata_fields:indicator_name,Metric name,Ցուցանիշի անվանումը 
 metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ցուցանիշի ցուցադրման կարգը (Նպատակների էջում) 
 metadata_fields:national_data_update_url,Data last updated,Տվյալները վերջին անգամ թարմացվել են 
 metadata_fields:national_geographical_coverage,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:national_indicator_available,Indicator available,Առկա ցուցանիշ
-metadata_fields:national_indicator_description,Indicator description,Ցուցանիշի նկարագիր 
+metadata_fields:national_indicator_available,Metric available,Առկա ցուցանիշ
+metadata_fields:national_indicator_description,Metric description,Ցուցանիշի նկարագիր 
 metadata_fields:national_metadata_update_url,Metadata last updated,Մետատվյալները վերջին անգան թարմացվել են 
 metadata_fields:source_contact_1,Contact details,Կոնտակտային տվյալներ
 metadata_fields:source_contact_2,Contact details,Կոնտակտային տվյալներ
@@ -168,8 +168,8 @@ metadata_fields:source_url_3,Link to data source,Հղում տվյալների �
 metadata_fields:source_url_4,Link to data source,Հղում տվյալների աղբյուրներին 
 metadata_fields:source_url_5,Link to data source,Հղում տվյալների աղբյուրներին 
 metadata_fields:source_url_6,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:target,Target name,Թիրախի անվանումը
-metadata_fields:target_id,Target number,Թիրախի համարը 
+metadata_fields:target,Topic name,Թիրախի անվանումը
+metadata_fields:target_id,Topic number,Թիրախի համարը 
 metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
 metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
 metadata_fields:quality_assurance,Quality assurance,Որակի ապահովում

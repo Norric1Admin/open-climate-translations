@@ -75,14 +75,14 @@ metadata_fields:computation_calculations,Calculations,Cálculos
 metadata_fields:computation_definitions,Definitions,Definiciones
 metadata_fields:computation_units,Unit of measurement,Unidad de medida
 metadata_fields:goal_meta_link,Link to UN metadata,Enlace a los metadatos de la ONU
-metadata_fields:indicator,Indicator number,Número del indicador
-metadata_fields:indicator_definition,Global indicator description,Descripción del indicador global
-metadata_fields:indicator_name,Indicator name,Nombre del indicador
+metadata_fields:indicator,Metric code,Número del indicador
+metadata_fields:indicator_definition,Global metric description,Descripción del indicador global
+metadata_fields:indicator_name,Metric name,Nombre del indicador
 metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Orden de visualización del indicador (dentro de la página de Goal)
 metadata_fields:national_data_update_url,Data last updated,Datos actualizados por última vez
 metadata_fields:national_geographical_coverage,Geographical coverage,Cobertura geográfica
-metadata_fields:national_indicator_available,Indicator available,Indicador disponible
-metadata_fields:national_indicator_description,Indicator description,Descripción del indicador
+metadata_fields:national_indicator_available,Metric available,Indicador disponible
+metadata_fields:national_indicator_description,Metric description,Descripción del indicador
 metadata_fields:national_metadata_update_url,Metadata last updated,Metadatos actualizados por última vez
 metadata_fields:source_contact_1,Contact details,Detalles de contacto
 metadata_fields:source_contact_2,Contact details,Detalles de contacto
@@ -144,8 +144,8 @@ metadata_fields:source_url_3,Link to data source,Enlace a la fuente de datos
 metadata_fields:source_url_4,Link to data source,Enlace a la fuente de datos
 metadata_fields:source_url_5,Link to data source,Enlace a la fuente de datos
 metadata_fields:source_url_6,Link to data source,Enlace a la fuente de datos
-metadata_fields:target,Target name,Nombre de destino
-metadata_fields:target_id,Target number,Número objetivo
+metadata_fields:target,Topic name,Nombre de destino
+metadata_fields:target_id,Topic number,Número objetivo
 metadata_fields:un_custodian_agency,UN custodian agency,Agencia de custodia de la ONU
 metadata_fields:un_designated_tier,UN designated tier,Nivel designado por la ONU
 metadata_fields:quality_assurance,Quality assurance,Seguro de calidad

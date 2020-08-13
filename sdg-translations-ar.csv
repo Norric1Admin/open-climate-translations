@@ -99,14 +99,14 @@ metadata_fields:computation_calculations,Calculations,عمليات حسابية
 metadata_fields:computation_definitions,Definitions,تعريفات
 metadata_fields:computation_units,Unit of measurement,وحدة قياس
 metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
-metadata_fields:indicator,Indicator number,رقم المؤشر
-metadata_fields:indicator_definition,Global indicator description,وصف المؤشر العالمي
-metadata_fields:indicator_name,Indicator name,اسم المؤشر
+metadata_fields:indicator,Metric code,رقم المؤشر
+metadata_fields:indicator_definition,Global metric description,وصف المؤشر العالمي
+metadata_fields:indicator_name,Metric name,اسم المؤشر
 metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
 metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
 metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
-metadata_fields:national_indicator_available,Indicator available,مؤشر متاح
-metadata_fields:national_indicator_description,Indicator description,وصف المؤشر
+metadata_fields:national_indicator_available,Metric available,مؤشر متاح
+metadata_fields:national_indicator_description,Metric description,وصف المؤشر
 metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
 metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
 metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
@@ -168,8 +168,8 @@ metadata_fields:source_url_3,Link to data source,رابط الى مصدر الب
 metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
 metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
 metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
-metadata_fields:target,Target name,اسم الهدف
-metadata_fields:target_id,Target number,رقم الهدف
+metadata_fields:target,Topic name,اسم الهدف
+metadata_fields:target_id,Topic number,رقم الهدف
 metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
 metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
 metadata_fields:quality_assurance,Quality assurance,ضمان الجودة

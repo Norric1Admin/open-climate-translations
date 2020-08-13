@@ -75,14 +75,14 @@ metadata_fields:computation_calculations,Calculations,Calculs
 metadata_fields:computation_definitions,Definitions,Définitions
 metadata_fields:computation_units,Unit of measurement,Unité de mesure
 metadata_fields:goal_meta_link,Link to UN metadata,Lien vers les métadonnées UN
-metadata_fields:indicator,Indicator number,Numéro de l&#39;indicateur
-metadata_fields:indicator_definition,Global indicator description,Description de l&#39;indicateur global
-metadata_fields:indicator_name,Indicator name,Nom de l&#39;indicateur
+metadata_fields:indicator,Metric code,Numéro de l&#39;indicateur
+metadata_fields:indicator_definition,Global metric description,Description de l&#39;indicateur global
+metadata_fields:indicator_name,Metric name,Nom de l&#39;indicateur
 metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ordre d&#39;affichage des indicateurs (dans la page Objectif)
 metadata_fields:national_data_update_url,Data last updated,Données mises à jour en dernier
 metadata_fields:national_geographical_coverage,Geographical coverage,Couverture géographique
-metadata_fields:national_indicator_available,Indicator available,Indicateur disponible
-metadata_fields:national_indicator_description,Indicator description,Description de l&#39;indicateur
+metadata_fields:national_indicator_available,Metric available,Indicateur disponible
+metadata_fields:national_indicator_description,Metric description,Description de l&#39;indicateur
 metadata_fields:national_metadata_update_url,Metadata last updated,Dernière mise à jour des métadonnées
 metadata_fields:source_contact_1,Contact details,Détails du contact
 metadata_fields:source_contact_2,Contact details,Détails du contact
@@ -144,8 +144,8 @@ metadata_fields:source_url_3,Link to data source,Lien vers la source de données
 metadata_fields:source_url_4,Link to data source,Lien vers la source de données
 metadata_fields:source_url_5,Link to data source,Lien vers la source de données
 metadata_fields:source_url_6,Link to data source,Lien vers la source de données
-metadata_fields:target,Target name,Nom de la cible
-metadata_fields:target_id,Target number,Numéro cible
+metadata_fields:target,Topic name,Nom de la cible
+metadata_fields:target_id,Topic number,Numéro cible
 metadata_fields:un_custodian_agency,UN custodian agency,Agence dépositaire des Nations Unies
 metadata_fields:un_designated_tier,UN designated tier,Niveau désigné par les Nations Unies
 metadata_fields:quality_assurance,Quality assurance,Assurance qualité
