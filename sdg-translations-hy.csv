@@ -47,11 +47,11 @@ frontpage:intro_title,UK Climate Change-related Statistics,17 նպատակ ՝ մ
 frontpage:intro_body,The open-climate platform is under construction.,"<a href=""https://www.un.org/sustainabledevelopment/ru/"">Կայուն զարգացման նպատակները (SDG)</a> - ը համընդհանուր կոչ է ՝ ուղղված աղքատությանը վերջ տալու, մոլորակին պաշտպանելու և բարելավել բոլորի կյանքը և հեռանկարները, ամենուր: 17 նպատակներն ընդունվել են ՄԱԿ-ի բոլոր անդամ պետությունների կողմից 2015 թ.-ին, որպես <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 օրակարգ կայուն զարգացման համար</a>:"
 status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
 status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
-status:reported_online,Reported online,Առցանց հաշվետվություն 
+status:reported_online,Published,Առցանց հաշվետվություն 
 status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
-status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
+status:exploring_data_sources,Not published,Ուսումնասիրել տվյալների աղբյուրները 
 status:not_applicable,Not applicable,ոչ կիրառելի
-status:status_by_goal,Status by goal,Գոլի կարգավիճակ
+status:status_by_goal,Status by area,Գոլի կարգավիճակ
 status:status_by_field,Status by %field,Կարգավիճակը %field
 general:indicator,Metric,Ցուցանիշ
 general:indicators,Metrics,Ցուցանիշներ

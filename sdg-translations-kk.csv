@@ -47,11 +47,11 @@ frontpage:intro_title,UK Climate Change-related Statistics,17 мақсат - б�
 frontpage:intro_body,The open-climate platform is under construction.,"<a href=""https://www.un.org/sustainabledevelopment/ru/"">Тұрақты даму мақсаттары (SDGs)</a> кедейлікті жоюға, планетаны қорғауға және өмірді қорғауға бағытталған әмбебап үндеу. барлық жерде, әркімнің өмірі мен болашағын жақсарту. 17 мақсатты БҰҰ-ға мүше барлық мемлекеттер 2015 жылы <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 тұрақты дамуының күн тәртібі</a>."
 status:reporting_status,Reporting Status,Есептіліктің жағдайы
 status:overall_reporting_status,Overall Reporting Status,Есептіліктің жалпы жағдайы
-status:reported_online,Reported online,Интернетте хабарланған
+status:reported_online,Published,Интернетте хабарланған
 status:statistics_in_progress,Statistics in progress,Статистика орындалу барысында
-status:exploring_data_sources,Exploring data sources,Дереккөздерін зерттеу
+status:exploring_data_sources,Not published,Дереккөздерін зерттеу
 status:not_applicable,Not applicable,Жарамсыз
-status:status_by_goal,Status by goal,Мақсат бойынша мәртебе
+status:status_by_goal,Status by area,Мақсат бойынша мәртебе
 status:status_by_field,Status by %field,%field мәртебесі
 general:indicator,Metric,Көрсеткіш
 general:indicators,Metrics,Көрсеткіштер

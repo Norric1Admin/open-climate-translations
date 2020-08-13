@@ -47,11 +47,11 @@ frontpage:intro_title,UK Climate Change-related Statistics,"17 Ziele, um unsere 
 frontpage:intro_body,The open-climate platform is under construction.,"Die <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Nachhaltige Entwicklungsziele (SDGs)</a> sind ein universeller Aufruf zum Handeln, um die Armut zu beenden, den Planeten zu schützen und das Leben und die Aussichten aller und überall zu verbessern. Die 17 Ziele wurden 2015 von allen UN-Mitgliedsstaaten als Teil der <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda für nachhaltige Entwicklung</a> angenommen."
 status:reporting_status,Reporting Status,Berichtsstatus
 status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
-status:reported_online,Reported online,Daten verfügbar
+status:reported_online,Published,Daten verfügbar
 status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
+status:exploring_data_sources,Not published,Datenquellenanalyse
 status:not_applicable,Not applicable,Nicht zutreffend
-status:status_by_goal,Status by goal,Status nach Ziel
+status:status_by_goal,Status by area,Status nach Ziel
 status:status_by_field,Status by %field,Status von %field
 general:indicator,Metric,Indikator
 general:indicators,Metrics,Indikatoren

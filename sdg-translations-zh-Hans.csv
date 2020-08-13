@@ -47,11 +47,11 @@ frontpage:intro_title,UK Climate Change-related Statistics,改变世界的17个�
 frontpage:intro_body,The open-climate platform is under construction.,"<a href=""https://www.un.org/sustainabledevelopment/zh"">可持续发展目标</a>是消除贫困，保护地球和 改善世界各地每个人的生活和前景。 作为<a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=C""> 2030年可持续发展议程</a>。"
 status:reporting_status,Reporting Status,上报状况
 status:overall_reporting_status,Overall Reporting Status,整体上报状况
-status:reported_online,Reported online,已在线上上报
+status:reported_online,Published,已在线上上报
 status:statistics_in_progress,Statistics in progress,统计在进行中
-status:exploring_data_sources,Exploring data sources,探索数据源
+status:exploring_data_sources,Not published,探索数据源
 status:not_applicable,Not applicable,不适用
-status:status_by_goal,Status by goal,目标状况
+status:status_by_goal,Status by area,目标状况
 status:status_by_field,Status by %field,状态%field
 general:indicator,Metric,指标
 general:indicators,Metrics,指标

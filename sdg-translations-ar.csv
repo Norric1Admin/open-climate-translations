@@ -47,11 +47,11 @@ frontpage:intro_title,UK Climate Change-related Statistics,17 هدفا لتحو�
 frontpage:intro_body,The open-climate platform is under construction.,إن أهداف التنمية المستدامة (SDGs) هي دعوة عالمية للعمل من أجل القضاء على الفقر وحماية الكوكب وتحسين حياة وآفاق الجميع في كل مكان. تم اعتماد الأهداف الـ 17 من قبل جميع الدول الأعضاء في الأمم المتحدة في عام 2015 ، كجزء من خطة التنمية المستدامة لعام 2030.
 status:reporting_status,Reporting Status,وضع الاعلان
 status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
-status:reported_online,Reported online,اعلن على الانترنت
+status:reported_online,Published,اعلن على الانترنت
 status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
-status:exploring_data_sources,Exploring data sources,استكشاف مصادر البيانات
+status:exploring_data_sources,Not published,استكشاف مصادر البيانات
 status:not_applicable,Not applicable,لايمكن تطبيقه
-status:status_by_goal,Status by goal,الحالة حسب الهدف
+status:status_by_goal,Status by area,الحالة حسب الهدف
 status:status_by_field,Status by %field,الحالة بواسطة %field
 general:indicator,Metric,مؤشر
 general:indicators,Metrics,مؤشرات

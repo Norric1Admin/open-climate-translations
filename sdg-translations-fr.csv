@@ -47,11 +47,11 @@ frontpage:intro_title,UK Climate Change-related Statistics,17 objectifs pour tra
 frontpage:intro_body,The open-climate platform is under construction.,"Les <a href=""https://www.un.org/sustainabledevelopment/fr"">objectifs de développement durable (SDG)</a> sont un appel universel à l'action pour mettre fin à la pauvreté, protéger la planète et améliorer la vie et les perspectives de chacun, partout. Les 17 objectifs ont été adoptés par tous les États membres des Nations unies en 2015, dans le cadre du <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=F"">programme pour le développement durable de 2030</a>."
 status:reporting_status,Reporting Status,Statut de rapport
 status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
-status:reported_online,Reported online,Signalé en ligne
+status:reported_online,Published,Signalé en ligne
 status:statistics_in_progress,Statistics in progress,Statistiques en cours
-status:exploring_data_sources,Exploring data sources,Explorer les sources de données
+status:exploring_data_sources,Not published,Explorer les sources de données
 status:not_applicable,Not applicable,Non applicable
-status:status_by_goal,Status by goal,Statut par but
+status:status_by_goal,Status by area,Statut par but
 status:status_by_field,Status by %field,Statut par %field
 general:indicator,Metric,Indicateur
 general:indicators,Metrics,Indicateurs
