@@ -55,14 +55,14 @@ status:status_by_goal,Status by area,Statut par but
 status:status_by_field,Status by %field,Statut par %field
 general:indicator,Metric,Indicateur
 general:indicators,Metrics,Indicateurs
-general:goal,Goal,Objectif
-general:goals,Goals,Buts
+general:goal,Area,Objectif
+general:goals,Areas,Buts
 general:sdg,Sustainable Development Goals,Objectifs de développement durable
 general:home,Home,Accueil
 general:loading,Loading search results,Chargement des résultats de recherche
 general:opens_new_window,opens in a new window,Ouvre dans une nouvelle fenêtre
-general:target,Target,Cible
-general:targets,Targets,Les cibles
+general:target,Topic,Cible
+general:targets,Topics,Les cibles
 general:twitter,Twitter,Twitter
 general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Construit en utilisant Open SDG

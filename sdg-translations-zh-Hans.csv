@@ -55,14 +55,14 @@ status:status_by_goal,Status by area,目标状况
 status:status_by_field,Status by %field,状态%field
 general:indicator,Metric,指标
 general:indicators,Metrics,指标
-general:goal,Goal,目标
-general:goals,Goals,目标
+general:goal,Area,目标
+general:goals,Areas,目标
 general:sdg,Sustainable Development Goals,可持续发展目标
 general:home,Home,首页
 general:loading,Loading search results,加载搜索结果
 general:opens_new_window,opens in a new window,在新窗口中打开
-general:target,Target,目标
-general:targets,Targets,目标
+general:target,Topic,目标
+general:targets,Topics,目标
 general:twitter,Twitter,Twitter
 general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,使用 Open SDG构建

@@ -55,14 +55,14 @@ status:status_by_goal,Status by area,الحالة حسب الهدف
 status:status_by_field,Status by %field,الحالة بواسطة %field
 general:indicator,Metric,مؤشر
 general:indicators,Metrics,مؤشرات
-general:goal,Goal,هدف
-general:goals,Goals,اهداف
+general:goal,Area,هدف
+general:goals,Areas,اهداف
 general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
 general:home,Home,الصفحة الرئيسية  (Home page)
 general:loading,Loading search results,تحميل نتائج البحث
 general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
-general:target,Target,استهداف
-general:targets,Targets,أهداف
+general:target,Topic,استهداف
+general:targets,Topics,أهداف
 general:twitter,Twitter,تويتر
 general:facebook,Facebook,فيسبوك
 general:built_using_open_sdg,Built using Open SDG,بنيت باستخدام Open SDG

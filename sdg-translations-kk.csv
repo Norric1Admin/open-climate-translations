@@ -55,14 +55,14 @@ status:status_by_goal,Status by area,Мақсат бойынша мәртебе
 status:status_by_field,Status by %field,%field мәртебесі
 general:indicator,Metric,Көрсеткіш
 general:indicators,Metrics,Көрсеткіштер
-general:goal,Goal,Мақсат
-general:goals,Goals,Мақсат
+general:goal,Area,Мақсат
+general:goals,Areas,Мақсат
 general:sdg,Sustainable Development Goals,Тұрақты даму мақсаттары шеңберінде
 general:home,Home,Басты бет
 general:loading,Loading search results,Ізденіс нәтижелерін жүктеу
 general:opens_new_window,opens in a new window,Жаңа қосымша бетте ашылады
-general:target,Target,Міндет
-general:targets,Targets,Міндеттер
+general:target,Topic,Міндет
+general:targets,Topics,Міндеттер
 general:twitter,Twitter,Twitter
 general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Open SDG көмегімен салынған

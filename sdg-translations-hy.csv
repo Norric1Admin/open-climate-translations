@@ -55,14 +55,14 @@ status:status_by_goal,Status by area,Գոլի կարգավիճակ
 status:status_by_field,Status by %field,Կարգավիճակը %field
 general:indicator,Metric,Ցուցանիշ
 general:indicators,Metrics,Ցուցանիշներ
-general:goal,Goal,Նպատակը
-general:goals,Goals,Նպատակները
+general:goal,Area,Նպատակը
+general:goals,Areas,Նպատակները
 general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
 general:home,Home,Գլխավոր էջ
 general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
 general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
-general:target,Target,Թիրախը
-general:targets,Targets,Թիրախներ
+general:target,Topic,Թիրախը
+general:targets,Topics,Թիրախներ
 general:twitter,Twitter,Թվիթերի
 general:facebook,Facebook,Ֆեյսբուք
 general:built_using_open_sdg,Built using Open SDG,Կառուցվել է Open SDG օգտագործմամբ

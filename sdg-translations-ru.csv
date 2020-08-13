@@ -55,14 +55,14 @@ status:status_by_goal,Status by area,Статус по цели
 status:status_by_field,Status by %field,Статус по %field
 general:indicator,Metric,Показатель
 general:indicators,Metrics,Показатели
-general:goal,Goal,Цель
-general:goals,Goals,Цели
+general:goal,Area,Цель
+general:goals,Areas,Цели
 general:sdg,Sustainable Development Goals,Цели в области устойчивого развития
 general:home,Home,Главная
 general:loading,Loading search results,Загрузка результатов поиска
 general:opens_new_window,opens in a new window,открывается в новой вкладке
-general:target,Target,Задача
-general:targets,Targets,Задачи
+general:target,Topic,Задача
+general:targets,Topics,Задачи
 general:twitter,Twitter,Твиттеру
 general:facebook,Facebook,Facebook
 general:built_using_open_sdg,Built using Open SDG,Построен с использованием Open SDG
