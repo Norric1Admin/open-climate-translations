@@ -186,6 +186,7 @@ global_goals:3-short,Drivers,Drivers
 global_goals:4-short,Impacts,Impacts
 global_goals:5-short,Mitigation,Mitigation
 global_goals:6-short,Adaption,Adaption
+global_goals:7-short,Contextual,Contextual
 menu:menu,Menu,Menu
 menu:reporting_status,Reporting Status,Statut de rapport
 menu:about,About,Sur

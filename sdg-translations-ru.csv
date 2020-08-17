@@ -94,6 +94,7 @@ global_targets:6-3-title,People and the built environment,People and the built e
 global_targets:6-4-title,Critical infrastructure,Critical infrastructure
 global_targets:6-5-title,Business,Business
 global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
+global_targets:7-1-title,Contextual metrics,Contextual metrics
 metadata_fields:other_info,Other information,Другая информация
 metadata_fields:computation_calculations,Calculations,Расчёты
 metadata_fields:computation_definitions,Definitions,Определения
@@ -216,6 +217,8 @@ global_goals:5-short,Mitigation,Mitigation
 global_goals:5-title,Mitigation,Mitigation
 global_goals:6-short,Adaption,Adaption
 global_goals:6-title,Adaption,Adaption
+global_goals:7-short,Contextual,Contextual
+global_goals:7-title,Contextual,Contextual
 menu:menu,Menu,Меню
 menu:reporting_status,Reporting Status,Состояние отчётности
 menu:about,About,О нас
@@ -302,3 +305,4 @@ global_indicators:6-5-3-title,Water demand by industry,Water demand by industry
 global_indicators:6-5-4-title,Business opportunities from climate change,Business opportunities from climate change
 global_indicators:6-6-1-title,Disaster planning and strategies,Disaster planning and strategies
 global_indicators:6-6-2-title,Early warning systems,Early warning systems
+global_indicators:7-1-1-title,Contextual metric 1,Contextual metric 1
