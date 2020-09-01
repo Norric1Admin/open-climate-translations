@@ -1,50 +1,11 @@
 ﻿key,en,de
-indicator:select_all,Select all,Alle auswählen
-indicator:clear_all,Clear all,Auswahl aufheben
-indicator:clear_selections,Clear selections,Auswahl aufheben
-indicator:variable_hint,Available when '%field' is selected,Verfügbar
-indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
-indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
-indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
-indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
-indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
-indicator:download_csv,Download CSV,im CSV-Format speichern
-indicator:download_csv_title,Download as CSV,im CSV-Format speichern
-indicator:download_chart_image,Download Chart Image,Grafik herunterladen
-indicator:download_chart_image_title,Download chart as image,Grafik als Bild herunterladen
-indicator:download_geojson,Download GeoJSON,im GeoJSON-Format speichern
-indicator:download_geojson_title,Download as GeoJSON,im GeoJSON-Format speichern
-indicator:source,Source,Datenquelle
-indicator:sources,Sources,Datenquellen
-indicator:geographical_area,Geographical Area,Geographische Abdeckung
-indicator:unit_of_measurement,Unit of Measurement,Einheit
-indicator:footnote,Footnote,Fußnote
-indicator:units_type,Units type,Einheit
-indicator:series,Series,Reihe
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
-indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
-indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:chart,Chart,Grafik
-indicator:table,Table,Tabelle
-indicator:map,Map,Karte
-indicator:loading_map,Loading map,Karte wird geladen
-indicator:national_metadata,National Metadata,Nationale Metadaten
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
-indicator:global_metadata,Global Metadata,Globale Metadaten
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""""https://unstats.un.org/sdgs/metadata/"""">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
-indicator:edit,Edit,Bearbeiten
-indicator:edit_data,Edit Data,Daten bearbeiten
-indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
-frontpage:heading,%name data for UK Climate Change-related Statistics,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
-frontpage:download_all,Download all data,Laden Sie alle Daten herunter
-frontpage:zip_file,ZIP file,zip-Datei
-frontpage:intro_title,UK Climate Change-related Statistics,"17 Ziele, um unsere Welt zu verändern"
-frontpage:intro_body,The open-climate platform is under construction.,"Die <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Nachhaltige Entwicklungsziele (SDGs)</a> sind ein universeller Aufruf zum Handeln, um die Armut zu beenden, den Planeten zu schützen und das Leben und die Aussichten aller und überall zu verbessern. Die 17 Ziele wurden 2015 von allen UN-Mitgliedsstaaten als Teil der <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda für nachhaltige Entwicklung</a> angenommen."
+search:search,Search,Suche
+search:indicator_search,Indicator search,Indikatorensuche
+search:search_results_for,Search results for,Ergebnisse zu
+search:found_in,found in,gefunden unter
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:did_you_mean,did you mean,meintest du
 status:reporting_status,Reporting Status,Berichtsstatus
 status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
 status:reported_online,Published,Daten verfügbar
@@ -53,143 +14,6 @@ status:exploring_data_sources,Not published,Datenquellenanalyse
 status:not_applicable,Not applicable,Nicht zutreffend
 status:status_by_goal,Status by area,Status nach Ziel
 status:status_by_field,Status by %field,Status von %field
-general:indicator,Metric,Indikator
-general:indicators,Metrics,Indikatoren
-general:goal,Area,Ziel
-general:goals,Areas,Ziele
-general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
-general:home,Home,Home
-general:loading,Loading search results,Ergebnisse werden geladen
-general:opens_new_window,opens in a new window,in neuem Fenster öffnen
-general:target,Topic,Unterziel
-general:targets,Topics,Unterziele
-general:twitter,Twitter,Twitter
-general:facebook,Facebook,Facebook
-general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
-general:page,Page,Website
-general:pages,Pages,Webseiten
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
-global_targets:1-1-title,UK Climate Series,UK Climate Series
-global_targets:1-2-title,UK Climate Projections,UK Climate Projections
-global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
-global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
-global_targets:3-1-title,GHG activities,GHG activities
-global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
-global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
-global_targets:3-4-title,Population,Population
-global_targets:3-5-title,Energy statistics,Energy statistics
-global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
-global_targets:4-2-title,Air Quality,Air Quality
-global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
-global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
-global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
-global_targets:5-2-title,Green economy,Green economy
-global_targets:5-3-title,Population growth,Population growth
-global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
-global_targets:5-5-title,Expenditure and investment,Expenditure and investment
-global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
-global_targets:6-2-title,Commercial natural environment,Commercial natural environment
-global_targets:6-3-title,People and the built environment,People and the built environment
-global_targets:6-4-title,Critical infrastructure,Critical infrastructure
-global_targets:6-5-title,Business,Business
-global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
-global_targets:7-1-title,Contextual metrics,Contextual metrics
-metadata_fields:other_info,Other information,Weitere Informationen
-metadata_fields:computation_calculations,Calculations,Methodik
-metadata_fields:computation_definitions,Definitions,Definitionen
-metadata_fields:computation_units,Unit of measurement,Einheit
-metadata_fields:goal_meta_link,Link to UN metadata,Link zu den globalen Metadaten
-metadata_fields:indicator,Metric code,Indikatorennummerierung
-metadata_fields:indicator_definition,Global metric description,Globale Indikatorenbeschreibung
-metadata_fields:indicator_name,Metric name,Indikatorenbezeichnung
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
-metadata_fields:national_data_update_url,Data last updated,Daten zuletzt aktualisiert am
-metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
-metadata_fields:national_indicator_available,Metric available,Verfügbare Datenreihenbezeichnung
-metadata_fields:national_indicator_description,Metric description,Indikatorenbeschreibung
-metadata_fields:national_metadata_update_url,Metadata last updated,Metadaten zuletzt aktualisiert am
-metadata_fields:source_contact_1,Contact details,Kontaktinformationen
-metadata_fields:source_contact_2,Contact details,Kontaktinformationen
-metadata_fields:source_contact_3,Contact details,Kontaktinformationen
-metadata_fields:source_contact_4,Contact details,Kontaktinformationen
-metadata_fields:source_contact_5,Contact details,Kontaktinformationen
-metadata_fields:source_contact_6,Contact details,Kontaktinformationen
-metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
-metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
-metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
-metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
-metadata_fields:source_organisation_1,Organisation,Organisation
-metadata_fields:source_organisation_2,Organisation,Organisation
-metadata_fields:source_organisation_3,Organisation,Organisation
-metadata_fields:source_organisation_4,Organisation,Organisation
-metadata_fields:source_organisation_5,Organisation,Organisation
-metadata_fields:source_organisation_6,Organisation,Organisation
-metadata_fields:source_other_info_1,Other information,Weitere Informationen
-metadata_fields:source_other_info_2,Other information,Weitere Informationen
-metadata_fields:source_other_info_3,Other information,Weitere Informationen
-metadata_fields:source_other_info_4,Other information,Weitere Informationen
-metadata_fields:source_other_info_5,Other information,Weitere Informationen
-metadata_fields:source_other_info_6,Other information,Weitere Informationen
-metadata_fields:source_periodicity_1,Periodicity,Periodizität
-metadata_fields:source_periodicity_2,Periodicity,Periodizität
-metadata_fields:source_periodicity_3,Periodicity,Periodizität
-metadata_fields:source_periodicity_4,Periodicity,Periodizität
-metadata_fields:source_periodicity_5,Periodicity,Periodizität
-metadata_fields:source_periodicity_6,Periodicity,Periodizität
-metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
-metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
-metadata_fields:source_statistical_classification_1,Statistical classification, Datentyp
-metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
-metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
-metadata_fields:source_url_1,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_2,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_3,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_4,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_5,Link to data source,Link zur Datenquelle
-metadata_fields:source_url_6,Link to data source,Link zur Datenquelle
-metadata_fields:target,Topic name,Unterziel
-metadata_fields:target_id,Topic number,Unterzielnummerierung
-metadata_fields:un_custodian_agency,UN custodian agency,VN Custodian Agency
-metadata_fields:un_designated_tier,UN designated tier,VN Tier Klassifikation
-metadata_fields:quality_assurance,Quality assurance,Qualitätssicherung
-metadata_fields:international_comparability,Comparability with international data/standards,Vergleichbarkeit mit internationalen Daten / Standards
-metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
-metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
-metadata_fields:copyright,Copyright,Urheberrechte
-calendar:January,January,Januar
-calendar:February,February,Februar
-calendar:March,March,März
-calendar:April,April,April
-calendar:May,May,Kann
-calendar:June,June,Juni
-calendar:July,July,Juli
-calendar:August,August,August
-calendar:September,September,September
-calendar:October,October,Oktober
-calendar:November,November,November
-calendar:December,December,Dezember
 header:skip_link,Skip to main content, Zum Hauptinhalt springen
 header:alpha,Alpha,Alpha-Version
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
@@ -198,27 +22,6 @@ header:high_contrast,High contrast,Hoher kontrast
 header:default_contrast,Default contrast,Standard kontrast
 header:enable_high_contrast,Enable high contrast,Aktivieren Sie hohen Kontrast
 header:disable_high_contrast,Disable high contrast,Hoher Kontrast deaktivieren
-search:search,Search,Suche
-search:indicator_search,Indicator search,Indikatorensuche
-search:search_results_for,Search results for,Ergebnisse zu
-search:found_in,found in,gefunden unter
-search:keywords,Keywords,Schlagworte
-search:no_results,No results,Keine Ergebnisse
-search:did_you_mean,did you mean,meintest du
-global_goals:1-short,Climate and weather,Climate and weather
-global_goals:1-title,Climate and weather,Climate and weather
-global_goals:2-short,Emissions,Emissions
-global_goals:2-title,Emissions,Emissions
-global_goals:3-short,Drivers,Drivers
-global_goals:3-title,Drivers,Drivers
-global_goals:4-short,Impacts,Impacts
-global_goals:4-title,Impacts,Impacts
-global_goals:5-short,Mitigation,Mitigation
-global_goals:5-title,Mitigation,Mitigation
-global_goals:6-short,Adaption,Adaption
-global_goals:6-title,Adaption,Adaption
-global_goals:7-short,Contextual,Contextual
-global_goals:7-title,Contextual,Contextual
 menu:menu,Menu,Menü
 menu:reporting_status,Reporting Status,Berichtsstatus
 menu:about,About,Über uns
@@ -307,3 +110,200 @@ global_indicators:6-5-4-title,Business opportunities from climate change,Busines
 global_indicators:6-6-1-title,Disaster planning and strategies,Disaster planning and strategies
 global_indicators:6-6-2-title,Early warning systems,Early warning systems
 global_indicators:7-1-1-title,Temperature,Contextual metric 1
+global_goals:1-short,Climate and weather,Climate and weather
+global_goals:1-title,Climate and weather description,Climate and weather
+global_goals:2-short,Emissions,Emissions
+global_goals:2-title,Emissions description,Emissions
+global_goals:3-short,Drivers,Drivers
+global_goals:3-title,Drivers description,Drivers
+global_goals:4-short,Impacts,Impacts
+global_goals:4-title,Impacts description,Impacts
+global_goals:5-short,Mitigation,Mitigation
+global_goals:5-title,Mitigation description,Mitigation
+global_goals:6-short,Adaption,Adaption
+global_goals:6-title,Adaption description,Adaption
+global_goals:7-short,Contextual,Contextual
+global_goals:7-title,Contextual description,Contextual
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
+global_targets:1-1-title,UK Climate Series,UK Climate Series
+global_targets:1-2-title,UK Climate Projections,UK Climate Projections
+global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
+global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
+global_targets:3-1-title,GHG activities,GHG activities
+global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
+global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
+global_targets:3-4-title,Population,Population
+global_targets:3-5-title,Energy statistics,Energy statistics
+global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
+global_targets:4-2-title,Air Quality,Air Quality
+global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
+global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
+global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
+global_targets:5-2-title,Green economy,Green economy
+global_targets:5-3-title,Population growth,Population growth
+global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
+global_targets:5-5-title,Expenditure and investment,Expenditure and investment
+global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
+global_targets:6-2-title,Commercial natural environment,Commercial natural environment
+global_targets:6-3-title,People and the built environment,People and the built environment
+global_targets:6-4-title,Critical infrastructure,Critical infrastructure
+global_targets:6-5-title,Business,Business
+global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
+global_targets:7-1-title,Contextual metrics,Contextual metrics
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
+frontpage:heading,%name data for UK Climate Change-related Statistics,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
+frontpage:download_all,Download all data,Laden Sie alle Daten herunter
+frontpage:zip_file,ZIP file,zip-Datei
+frontpage:intro_title,UK Climate Change-related Statistics,"17 Ziele, um unsere Welt zu verändern"
+frontpage:intro_body,The open-climate platform is under construction.,"Die <a href=""https://www.un.org/sustainabledevelopment/sustainable-development-goals/"">Nachhaltige Entwicklungsziele (SDGs)</a> sind ein universeller Aufruf zum Handeln, um die Armut zu beenden, den Planeten zu schützen und das Leben und die Aussichten aller und überall zu verbessern. Die 17 Ziele wurden 2015 von allen UN-Mitgliedsstaaten als Teil der <a href=""http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E"">2030 Agenda für nachhaltige Entwicklung</a> angenommen."
+metadata_fields:other_info,Other information,Weitere Informationen
+metadata_fields:computation_calculations,Calculations,Methodik
+metadata_fields:computation_definitions,Definitions,Definitionen
+metadata_fields:computation_units,Unit of measurement,Einheit
+metadata_fields:goal_meta_link,Link to UN metadata,Link zu den globalen Metadaten
+metadata_fields:indicator,Metric code,Indikatorennummerierung
+metadata_fields:indicator_definition,Global metric description,Globale Indikatorenbeschreibung
+metadata_fields:indicator_name,Metric name,Indikatorenbezeichnung
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
+metadata_fields:national_data_update_url,Data last updated,Daten zuletzt aktualisiert am
+metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
+metadata_fields:national_indicator_available,Metric available,Verfügbare Datenreihenbezeichnung
+metadata_fields:national_indicator_description,Metric description,Indikatorenbeschreibung
+metadata_fields:national_metadata_update_url,Metadata last updated,Metadaten zuletzt aktualisiert am
+metadata_fields:source_contact_1,Contact details,Kontaktinformationen
+metadata_fields:source_contact_2,Contact details,Kontaktinformationen
+metadata_fields:source_contact_3,Contact details,Kontaktinformationen
+metadata_fields:source_contact_4,Contact details,Kontaktinformationen
+metadata_fields:source_contact_5,Contact details,Kontaktinformationen
+metadata_fields:source_contact_6,Contact details,Kontaktinformationen
+metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
+metadata_fields:source_organisation_1,Organisation,Organisation
+metadata_fields:source_organisation_2,Organisation,Organisation
+metadata_fields:source_organisation_3,Organisation,Organisation
+metadata_fields:source_organisation_4,Organisation,Organisation
+metadata_fields:source_organisation_5,Organisation,Organisation
+metadata_fields:source_organisation_6,Organisation,Organisation
+metadata_fields:source_other_info_1,Other information,Weitere Informationen
+metadata_fields:source_other_info_2,Other information,Weitere Informationen
+metadata_fields:source_other_info_3,Other information,Weitere Informationen
+metadata_fields:source_other_info_4,Other information,Weitere Informationen
+metadata_fields:source_other_info_5,Other information,Weitere Informationen
+metadata_fields:source_other_info_6,Other information,Weitere Informationen
+metadata_fields:source_periodicity_1,Periodicity,Periodizität
+metadata_fields:source_periodicity_2,Periodicity,Periodizität
+metadata_fields:source_periodicity_3,Periodicity,Periodizität
+metadata_fields:source_periodicity_4,Periodicity,Periodizität
+metadata_fields:source_periodicity_5,Periodicity,Periodizität
+metadata_fields:source_periodicity_6,Periodicity,Periodizität
+metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
+metadata_fields:source_statistical_classification_1,Statistical classification, Datentyp
+metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
+metadata_fields:source_url_1,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_2,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_3,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_4,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_5,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_6,Link to data source,Link zur Datenquelle
+metadata_fields:target,Topic name,Unterziel
+metadata_fields:target_id,Topic number,Unterzielnummerierung
+metadata_fields:un_custodian_agency,UN custodian agency,VN Custodian Agency
+metadata_fields:un_designated_tier,UN designated tier,VN Tier Klassifikation
+metadata_fields:quality_assurance,Quality assurance,Qualitätssicherung
+metadata_fields:international_comparability,Comparability with international data/standards,Vergleichbarkeit mit internationalen Daten / Standards
+metadata_fields:comments_limitations,Comments and limitations,Kommentare und Einschränkungen
+metadata_fields:rational_interpretation,Rational and interpretation,Vernunft und Interpretation
+metadata_fields:copyright,Copyright,Urheberrechte
+indicator:select_all,Select all,Alle auswählen
+indicator:clear_all,Clear all,Auswahl aufheben
+indicator:clear_selections,Clear selections,Auswahl aufheben
+indicator:variable_hint,Available when '%field' is selected,Verfügbar
+indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
+indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
+indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
+indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
+indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
+indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
+indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
+indicator:download_csv,Download CSV,im CSV-Format speichern
+indicator:download_csv_title,Download as CSV,im CSV-Format speichern
+indicator:download_chart_image,Download Chart Image,Grafik herunterladen
+indicator:download_chart_image_title,Download chart as image,Grafik als Bild herunterladen
+indicator:download_geojson,Download GeoJSON,im GeoJSON-Format speichern
+indicator:download_geojson_title,Download as GeoJSON,im GeoJSON-Format speichern
+indicator:source,Source,Datenquelle
+indicator:sources,Sources,Datenquellen
+indicator:geographical_area,Geographical Area,Geographische Abdeckung
+indicator:unit_of_measurement,Unit of Measurement,Einheit
+indicator:footnote,Footnote,Fußnote
+indicator:units_type,Units type,Einheit
+indicator:series,Series,Reihe
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
+indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
+indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:chart,Chart,Grafik
+indicator:table,Table,Tabelle
+indicator:map,Map,Karte
+indicator:loading_map,Loading map,Karte wird geladen
+indicator:national_metadata,National Metadata,Nationale Metadaten
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
+indicator:global_metadata,Global Metadata,Globale Metadaten
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""""https://unstats.un.org/sdgs/metadata/"""">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
+indicator:edit,Edit,Bearbeiten
+indicator:edit_data,Edit Data,Daten bearbeiten
+indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
+calendar:January,January,Januar
+calendar:February,February,Februar
+calendar:March,March,März
+calendar:April,April,April
+calendar:May,May,Kann
+calendar:June,June,Juni
+calendar:July,July,Juli
+calendar:August,August,August
+calendar:September,September,September
+calendar:October,October,Oktober
+calendar:November,November,November
+calendar:December,December,Dezember
+general:indicator,Metric,Indikator
+general:indicators,Metrics,Indikatoren
+general:goal,Area,Ziel
+general:goals,Areas,Ziele
+general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
+general:home,Home,Home
+general:loading,Loading search results,Ergebnisse werden geladen
+general:opens_new_window,opens in a new window,in neuem Fenster öffnen
+general:target,Topic,Unterziel
+general:targets,Topics,Unterziele
+general:twitter,Twitter,Twitter
+general:facebook,Facebook,Facebook
+general:built_using_open_sdg,Built using Open SDG,Erstellt mit Open SDG
+general:page,Page,Website
+general:pages,Pages,Webseiten

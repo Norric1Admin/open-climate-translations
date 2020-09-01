@@ -1,50 +1,11 @@
 ﻿key,en,hy
-indicator:select_all,Select all,Ընտրել ամբողջը
-indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
-indicator:clear_selections,Clear selections,Մաքրել նշվածները 
-indicator:variable_hint,Available when '%field' is selected,"Հասանելի է, երբ ընտրված է դաշտը '%field' "
-indicator:no_data_hint,No options available because of filters above,Վերը նշված ֆիլտրերի պատճառով ընտրանք չկա
-indicator:download_headline,Download Headline CSV,Ներբեռնել վերնագիրը որպես CSV
-indicator:download_headline_title,Download headline data as CSV,Ներբեռնել վերնագրի տվյալները որպես CSV
-indicator:download_source,Download Source CSV,Ներբեռնել աղբյուրը CSV
-indicator:download_source_title,Download source data as CSV,"Ներբեռնել աղբյուրի տվյալները, որպես CSV"
-indicator:download_chart,Download Chart CSV,Ներբեռնել CSV գծապատկեր
-indicator:download_table,Download Table CSV,Ներբեռնել CSV աղյուսակը
-indicator:download_csv,Download CSV,Ներբեռնել CSV
-indicator:download_csv_title,Download as CSV,Ներբեռնել որպես CSV
-indicator:download_chart_image,Download Chart Image,Ներբեռնեք գծապատկերի պատկերը
-indicator:download_chart_image_title,Download chart as image,Ներբեռնեք աղյուսակը որպես պատկեր
-indicator:download_geojson,Download GeoJSON,Ներբեռնել GeoJSON
-indicator:download_geojson_title,Download as GeoJSON,Ներբեռնել որպես GeoJSON
-indicator:source,Source,Աղբյուր
-indicator:sources,Sources,Աղբյուրներ
-indicator:geographical_area,Geographical Area,Աշխարհագրական դիրք
-indicator:unit_of_measurement,Unit of Measurement,Չափման  միավոր
-indicator:footnote,Footnote,Ծանոթագրություն
-indicator:units_type,Units type,Միավորների տեսակը
-indicator:series,Series,Սերիան
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Տվյալները չափազանց շատ են գծապատկերում ցուցադրելու համար: Նրանցից ոչ բոլորը կցուցադրվեն, քանի դեռ չեք հանել որոշ նշվածները:"
-indicator:view_indicator_list,View this goal's indicator list,Տեսնել այս նպատակի ցուցանիշների ցանկը
-indicator:sub_categories,Sub-categories,Ենթախմբեր
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Ընտրել ստորև բերված կատեգորիաները `տվյալների տարբեր ենթախմբերը տեսնելու համար: Ոմանք հասանելի չեն լինի, մինչև չընտրվի առավել բարձր մակարդակը: "
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,Սեղմեք նկարագրությանը գծապատկերից անհատական գծերը հեռացնելու համար:
-indicator:chart,Chart,Գծապատկեր
-indicator:table,Table,Աղյուսակ
-indicator:map,Map,Քարտեզ
-indicator:loading_map,Loading map,Քարտեզը բեռնվում է։
-indicator:national_metadata,National Metadata,Ազգային մետատվյալներ
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Այս աղյուսակը տրամադրում է երկրի_անվանում վիճակագրությունում առկա համապատասխան գլոբալ ԿԶՆ ցուցանիշին ամենամոտ մետատվյալներ գործող ցուցանիշի վերաբերյալ։ Խնդրում ենք նկատի ունենալ, որ նույնիսկ այն դեպքում, երբ գլոբալ ԿԶՆ ցուցանիշը ամբողջությամբ հասանելի է երկրին_համապատասխան վիճակագրության մեջ, այս աղյուսակը պետք է ծառայի ազգային մեթոդաբանության և այլ երկրին_համապատասխան մետատվյալների վերաբերյալ տեղեկատվության համար:"
-indicator:global_metadata,Global Metadata,Գլոբալ մետատվյալներ
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Այս աղյուսակը տեղեկատվություն է տրամադրում ՄԱԿ-ի վիճակագրական կոմիտեի սահմանած ԿԶՆ ցուցանիշների մետատվյալի մասին <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> "
-indicator:edit,Edit,Խմբագրել
-indicator:edit_data,Edit Data,Խմբագրել տվյալները
-indicator:edit_metadata,Edit Metadata,Խմբագրել մետատվյալները
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
-frontpage:heading,%name data for UK Climate Change-related Statistics,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
-frontpage:download_all,Download all data,Ներբեռնեք բոլոր տվյալները
-frontpage:zip_file,ZIP file,ZIP ֆայլ
-frontpage:intro_title,UK Climate Change-related Statistics,17 նպատակ ՝ մեր աշխարհը վերափոխելու համար
-frontpage:intro_body,The open-climate platform is under construction.,"<a href=""https://www.un.org/sustainabledevelopment/ru/"">Կայուն զարգացման նպատակները (SDG)</a> - ը համընդհանուր կոչ է ՝ ուղղված աղքատությանը վերջ տալու, մոլորակին պաշտպանելու և բարելավել բոլորի կյանքը և հեռանկարները, ամենուր: 17 նպատակներն ընդունվել են ՄԱԿ-ի բոլոր անդամ պետությունների կողմից 2015 թ.-ին, որպես <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 օրակարգ կայուն զարգացման համար</a>:"
+search:search,Search,Որոնում
+search:indicator_search,Indicator search,Ցուցանիշների որոնում
+search:search_results_for,Search results for,Որոնման արդյունքներ
+search:found_in,found in,Գտնված է
+search:keywords,Keywords,Հիմնաբառեր
+search:no_results,No results,Արդյունքներ չկան
+search:did_you_mean,did you mean,դու ի նկատի ունեիր
 status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
 status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
 status:reported_online,Published,Առցանց հաշվետվություն 
@@ -53,143 +14,6 @@ status:exploring_data_sources,Not published,Ուսումնասիրել տվյա�
 status:not_applicable,Not applicable,ոչ կիրառելի
 status:status_by_goal,Status by area,Գոլի կարգավիճակ
 status:status_by_field,Status by %field,Կարգավիճակը %field
-general:indicator,Metric,Ցուցանիշ
-general:indicators,Metrics,Ցուցանիշներ
-general:goal,Area,Նպատակը
-general:goals,Areas,Նպատակները
-general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
-general:home,Home,Գլխավոր էջ
-general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
-general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
-general:target,Topic,Թիրախը
-general:targets,Topics,Թիրախներ
-general:twitter,Twitter,Թվիթերի
-general:facebook,Facebook,Ֆեյսբուք
-general:built_using_open_sdg,Built using Open SDG,Կառուցվել է Open SDG օգտագործմամբ
-general:page,Page,ինտերնետային էջ
-general:pages,Pages,վեբ էջեր
-post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
-post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
-global_targets:1-1-title,UK Climate Series,UK Climate Series
-global_targets:1-2-title,UK Climate Projections,UK Climate Projections
-global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
-global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
-global_targets:3-1-title,GHG activities,GHG activities
-global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
-global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
-global_targets:3-4-title,Population,Population
-global_targets:3-5-title,Energy statistics,Energy statistics
-global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
-global_targets:4-2-title,Air Quality,Air Quality
-global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
-global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
-global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
-global_targets:5-2-title,Green economy,Green economy
-global_targets:5-3-title,Population growth,Population growth
-global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
-global_targets:5-5-title,Expenditure and investment,Expenditure and investment
-global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
-global_targets:6-2-title,Commercial natural environment,Commercial natural environment
-global_targets:6-3-title,People and the built environment,People and the built environment
-global_targets:6-4-title,Critical infrastructure,Critical infrastructure
-global_targets:6-5-title,Business,Business
-global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
-global_targets:7-1-title,Contextual metrics,Contextual metrics
-metadata_fields:other_info,Other information,Այլ տեղեկություններ 
-metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
-metadata_fields:computation_definitions,Definitions,Սահմանումներ 
-metadata_fields:computation_units,Unit of measurement,Չափման միավորը 
-metadata_fields:goal_meta_link,Link to UN metadata,Հղում ՄԱԿ-ի մետատվյալների
-metadata_fields:indicator,Metric code,Ցուցանիշի համարը 
-metadata_fields:indicator_definition,Global metric description,Գլոբալ ցուցանիշի նկարագրությունը 
-metadata_fields:indicator_name,Metric name,Ցուցանիշի անվանումը 
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ցուցանիշի ցուցադրման կարգը (Նպատակների էջում) 
-metadata_fields:national_data_update_url,Data last updated,Տվյալները վերջին անգամ թարմացվել են 
-metadata_fields:national_geographical_coverage,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:national_indicator_available,Metric available,Առկա ցուցանիշ
-metadata_fields:national_indicator_description,Metric description,Ցուցանիշի նկարագիր 
-metadata_fields:national_metadata_update_url,Metadata last updated,Մետատվյալները վերջին անգան թարմացվել են 
-metadata_fields:source_contact_1,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_2,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_3,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_4,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_5,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_contact_6,Contact details,Կոնտակտային տվյալներ
-metadata_fields:source_earliest_available_1,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_2,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_3,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_4,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_5,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_earliest_available_6,Earliest available data,Ամենավաղ հասանելի տվյալը 
-metadata_fields:source_geographical_coverage_1,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_2,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_3,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_4,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_5,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_geographical_coverage_6,Geographical coverage,Աշխարհագրական ընդգրկունություն 
-metadata_fields:source_next_release_1,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_2,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_3,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_4,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_5,Next release,Հաջորդ թողարկումը
-metadata_fields:source_next_release_6,Next release,Հաջորդ թողարկումը
-metadata_fields:source_organisation_1,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_2,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_3,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_4,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_5,Organisation,Կազմակերպություն 
-metadata_fields:source_organisation_6,Organisation,Կազմակերպություն 
-metadata_fields:source_other_info_1,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_2,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_3,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_4,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_5,Other information,Այլ տեղեկություններ 
-metadata_fields:source_other_info_6,Other information,Այլ տեղեկություններ 
-metadata_fields:source_periodicity_1,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_2,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_3,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_4,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_5,Periodicity,Պարբերականությունը 
-metadata_fields:source_periodicity_6,Periodicity,Պարբերականությունը 
-metadata_fields:source_release_date_1,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_2,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_3,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_4,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_5,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_release_date_6,Release date,Թողարկման ամսաթիվը
-metadata_fields:source_statistical_classification_1,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_2,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_3,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_4,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_5,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_statistical_classification_6,Statistical classification,Վիճակագրական դասակարգում
-metadata_fields:source_url_1,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_2,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_3,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_4,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_5,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:source_url_6,Link to data source,Հղում տվյալների աղբյուրներին 
-metadata_fields:target,Topic name,Թիրախի անվանումը
-metadata_fields:target_id,Topic number,Թիրախի համարը 
-metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
-metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
-metadata_fields:quality_assurance,Quality assurance,Որակի ապահովում
-metadata_fields:international_comparability,Comparability with international data/standards,Համեմատելիություն միջազգային տվյալների / ստանդարտների հետ
-metadata_fields:comments_limitations,Comments and limitations,Մեկնաբանություններ և սահմանափակումներ
-metadata_fields:rational_interpretation,Rational and interpretation,Ռացիոնալ և մեկնաբանություն
-metadata_fields:copyright,Copyright,Հեղինակային իրավունք
-calendar:January,January,Հունվար
-calendar:February,February,Փետրվար
-calendar:March,March,Մարտ
-calendar:April,April,Ապրիլ
-calendar:May,May,Մայիս
-calendar:June,June,Հունիս
-calendar:July,July,Հուլիս
-calendar:August,August,Օգոստոս
-calendar:September,September,Սեպտեմբեր
-calendar:October,October,Հոկտեմբեր
-calendar:November,November,Նոյեմբեր
-calendar:December,December,Դեկտեմբեր
 header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
 header:alpha,Alpha,Ալֆա
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
@@ -198,27 +22,6 @@ header:high_contrast,High contrast,բարձր հակադրություն
 header:default_contrast,Default contrast,լռելյայն հակադրություն
 header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
 header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
-search:search,Search,Որոնում
-search:indicator_search,Indicator search,Ցուցանիշների որոնում
-search:search_results_for,Search results for,Որոնման արդյունքներ
-search:found_in,found in,Գտնված է
-search:keywords,Keywords,Հիմնաբառեր
-search:no_results,No results,Արդյունքներ չկան
-search:did_you_mean,did you mean,դու ի նկատի ունեիր
-global_goals:1-short,Climate and weather,Climate and weather
-global_goals:1-title,Climate and weather,Climate and weather
-global_goals:2-short,Emissions,Emissions
-global_goals:2-title,Emissions,Emissions
-global_goals:3-short,Drivers,Drivers
-global_goals:3-title,Drivers,Drivers
-global_goals:4-short,Impacts,Impacts
-global_goals:4-title,Impacts,Impacts
-global_goals:5-short,Mitigation,Mitigation
-global_goals:5-title,Mitigation,Mitigation
-global_goals:6-short,Adaption,Adaption
-global_goals:6-title,Adaption,Adaption
-global_goals:7-short,Contextual,Contextual
-global_goals:7-title,Contextual,Contextual
 menu:menu,Menu,Ցանկ
 menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
 menu:about,About,Վերաբերյալ
@@ -307,3 +110,200 @@ global_indicators:6-5-4-title,Business opportunities from climate change,Busines
 global_indicators:6-6-1-title,Disaster planning and strategies,Disaster planning and strategies
 global_indicators:6-6-2-title,Early warning systems,Early warning systems
 global_indicators:7-1-1-title,Temperature,Contextual metric 1
+global_goals:1-short,Climate and weather,Climate and weather
+global_goals:1-title,Climate and weather description,Climate and weather
+global_goals:2-short,Emissions,Emissions
+global_goals:2-title,Emissions description,Emissions
+global_goals:3-short,Drivers,Drivers
+global_goals:3-title,Drivers description,Drivers
+global_goals:4-short,Impacts,Impacts
+global_goals:4-title,Impacts description,Impacts
+global_goals:5-short,Mitigation,Mitigation
+global_goals:5-title,Mitigation description,Mitigation
+global_goals:6-short,Adaption,Adaption
+global_goals:6-title,Adaption description,Adaption
+global_goals:7-short,Contextual,Contextual
+global_goals:7-title,Contextual description,Contextual
+post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
+post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
+global_targets:1-1-title,UK Climate Series,UK Climate Series
+global_targets:1-2-title,UK Climate Projections,UK Climate Projections
+global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
+global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
+global_targets:3-1-title,GHG activities,GHG activities
+global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
+global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
+global_targets:3-4-title,Population,Population
+global_targets:3-5-title,Energy statistics,Energy statistics
+global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
+global_targets:4-2-title,Air Quality,Air Quality
+global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
+global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
+global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
+global_targets:5-2-title,Green economy,Green economy
+global_targets:5-3-title,Population growth,Population growth
+global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
+global_targets:5-5-title,Expenditure and investment,Expenditure and investment
+global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
+global_targets:6-2-title,Commercial natural environment,Commercial natural environment
+global_targets:6-3-title,People and the built environment,People and the built environment
+global_targets:6-4-title,Critical infrastructure,Critical infrastructure
+global_targets:6-5-title,Business,Business
+global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
+global_targets:7-1-title,Contextual metrics,Contextual metrics
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+frontpage:heading,%name data for UK Climate Change-related Statistics,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
+frontpage:download_all,Download all data,Ներբեռնեք բոլոր տվյալները
+frontpage:zip_file,ZIP file,ZIP ֆայլ
+frontpage:intro_title,UK Climate Change-related Statistics,17 նպատակ ՝ մեր աշխարհը վերափոխելու համար
+frontpage:intro_body,The open-climate platform is under construction.,"<a href=""https://www.un.org/sustainabledevelopment/ru/"">Կայուն զարգացման նպատակները (SDG)</a> - ը համընդհանուր կոչ է ՝ ուղղված աղքատությանը վերջ տալու, մոլորակին պաշտպանելու և բարելավել բոլորի կյանքը և հեռանկարները, ամենուր: 17 նպատակներն ընդունվել են ՄԱԿ-ի բոլոր անդամ պետությունների կողմից 2015 թ.-ին, որպես <a href=""https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=R"">2030 օրակարգ կայուն զարգացման համար</a>:"
+metadata_fields:other_info,Other information,Այլ տեղեկություններ 
+metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
+metadata_fields:computation_definitions,Definitions,Սահմանումներ 
+metadata_fields:computation_units,Unit of measurement,Չափման միավորը 
+metadata_fields:goal_meta_link,Link to UN metadata,Հղում ՄԱԿ-ի մետատվյալների
+metadata_fields:indicator,Metric code,Ցուցանիշի համարը 
+metadata_fields:indicator_definition,Global metric description,Գլոբալ ցուցանիշի նկարագրությունը 
+metadata_fields:indicator_name,Metric name,Ցուցանիշի անվանումը 
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ցուցանիշի ցուցադրման կարգը (Նպատակների էջում) 
+metadata_fields:national_data_update_url,Data last updated,Տվյալները վերջին անգամ թարմացվել են 
+metadata_fields:national_geographical_coverage,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:national_indicator_available,Metric available,Առկա ցուցանիշ
+metadata_fields:national_indicator_description,Metric description,Ցուցանիշի նկարագիր 
+metadata_fields:national_metadata_update_url,Metadata last updated,Մետատվյալները վերջին անգան թարմացվել են 
+metadata_fields:source_contact_1,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_2,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_3,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_4,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_5,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_contact_6,Contact details,Կոնտակտային տվյալներ
+metadata_fields:source_earliest_available_1,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_2,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_3,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_4,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_5,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_earliest_available_6,Earliest available data,Ամենավաղ հասանելի տվյալը 
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Աշխարհագրական ընդգրկունություն 
+metadata_fields:source_next_release_1,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_2,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_3,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_4,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_5,Next release,Հաջորդ թողարկումը
+metadata_fields:source_next_release_6,Next release,Հաջորդ թողարկումը
+metadata_fields:source_organisation_1,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_2,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_3,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_4,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_5,Organisation,Կազմակերպություն 
+metadata_fields:source_organisation_6,Organisation,Կազմակերպություն 
+metadata_fields:source_other_info_1,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_2,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_3,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_4,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_5,Other information,Այլ տեղեկություններ 
+metadata_fields:source_other_info_6,Other information,Այլ տեղեկություններ 
+metadata_fields:source_periodicity_1,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_2,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_3,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_4,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_5,Periodicity,Պարբերականությունը 
+metadata_fields:source_periodicity_6,Periodicity,Պարբերականությունը 
+metadata_fields:source_release_date_1,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_2,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_3,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_4,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_5,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_release_date_6,Release date,Թողարկման ամսաթիվը
+metadata_fields:source_statistical_classification_1,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_2,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_3,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_4,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_5,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_statistical_classification_6,Statistical classification,Վիճակագրական դասակարգում
+metadata_fields:source_url_1,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_2,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_3,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_4,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_5,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:source_url_6,Link to data source,Հղում տվյալների աղբյուրներին 
+metadata_fields:target,Topic name,Թիրախի անվանումը
+metadata_fields:target_id,Topic number,Թիրախի համարը 
+metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
+metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
+metadata_fields:quality_assurance,Quality assurance,Որակի ապահովում
+metadata_fields:international_comparability,Comparability with international data/standards,Համեմատելիություն միջազգային տվյալների / ստանդարտների հետ
+metadata_fields:comments_limitations,Comments and limitations,Մեկնաբանություններ և սահմանափակումներ
+metadata_fields:rational_interpretation,Rational and interpretation,Ռացիոնալ և մեկնաբանություն
+metadata_fields:copyright,Copyright,Հեղինակային իրավունք
+indicator:select_all,Select all,Ընտրել ամբողջը
+indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
+indicator:clear_selections,Clear selections,Մաքրել նշվածները 
+indicator:variable_hint,Available when '%field' is selected,"Հասանելի է, երբ ընտրված է դաշտը '%field' "
+indicator:no_data_hint,No options available because of filters above,Վերը նշված ֆիլտրերի պատճառով ընտրանք չկա
+indicator:download_headline,Download Headline CSV,Ներբեռնել վերնագիրը որպես CSV
+indicator:download_headline_title,Download headline data as CSV,Ներբեռնել վերնագրի տվյալները որպես CSV
+indicator:download_source,Download Source CSV,Ներբեռնել աղբյուրը CSV
+indicator:download_source_title,Download source data as CSV,"Ներբեռնել աղբյուրի տվյալները, որպես CSV"
+indicator:download_chart,Download Chart CSV,Ներբեռնել CSV գծապատկեր
+indicator:download_table,Download Table CSV,Ներբեռնել CSV աղյուսակը
+indicator:download_csv,Download CSV,Ներբեռնել CSV
+indicator:download_csv_title,Download as CSV,Ներբեռնել որպես CSV
+indicator:download_chart_image,Download Chart Image,Ներբեռնեք գծապատկերի պատկերը
+indicator:download_chart_image_title,Download chart as image,Ներբեռնեք աղյուսակը որպես պատկեր
+indicator:download_geojson,Download GeoJSON,Ներբեռնել GeoJSON
+indicator:download_geojson_title,Download as GeoJSON,Ներբեռնել որպես GeoJSON
+indicator:source,Source,Աղբյուր
+indicator:sources,Sources,Աղբյուրներ
+indicator:geographical_area,Geographical Area,Աշխարհագրական դիրք
+indicator:unit_of_measurement,Unit of Measurement,Չափման  միավոր
+indicator:footnote,Footnote,Ծանոթագրություն
+indicator:units_type,Units type,Միավորների տեսակը
+indicator:series,Series,Սերիան
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"Տվյալները չափազանց շատ են գծապատկերում ցուցադրելու համար: Նրանցից ոչ բոլորը կցուցադրվեն, քանի դեռ չեք հանել որոշ նշվածները:"
+indicator:view_indicator_list,View this goal's indicator list,Տեսնել այս նպատակի ցուցանիշների ցանկը
+indicator:sub_categories,Sub-categories,Ենթախմբեր
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Ընտրել ստորև բերված կատեգորիաները `տվյալների տարբեր ենթախմբերը տեսնելու համար: Ոմանք հասանելի չեն լինի, մինչև չընտրվի առավել բարձր մակարդակը: "
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Սեղմեք նկարագրությանը գծապատկերից անհատական գծերը հեռացնելու համար:
+indicator:chart,Chart,Գծապատկեր
+indicator:table,Table,Աղյուսակ
+indicator:map,Map,Քարտեզ
+indicator:loading_map,Loading map,Քարտեզը բեռնվում է։
+indicator:national_metadata,National Metadata,Ազգային մետատվյալներ
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Այս աղյուսակը տրամադրում է երկրի_անվանում վիճակագրությունում առկա համապատասխան գլոբալ ԿԶՆ ցուցանիշին ամենամոտ մետատվյալներ գործող ցուցանիշի վերաբերյալ։ Խնդրում ենք նկատի ունենալ, որ նույնիսկ այն դեպքում, երբ գլոբալ ԿԶՆ ցուցանիշը ամբողջությամբ հասանելի է երկրին_համապատասխան վիճակագրության մեջ, այս աղյուսակը պետք է ծառայի ազգային մեթոդաբանության և այլ երկրին_համապատասխան մետատվյալների վերաբերյալ տեղեկատվության համար:"
+indicator:global_metadata,Global Metadata,Գլոբալ մետատվյալներ
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Այս աղյուսակը տեղեկատվություն է տրամադրում ՄԱԿ-ի վիճակագրական կոմիտեի սահմանած ԿԶՆ ցուցանիշների մետատվյալի մասին <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> "
+indicator:edit,Edit,Խմբագրել
+indicator:edit_data,Edit Data,Խմբագրել տվյալները
+indicator:edit_metadata,Edit Metadata,Խմբագրել մետատվյալները
+calendar:January,January,Հունվար
+calendar:February,February,Փետրվար
+calendar:March,March,Մարտ
+calendar:April,April,Ապրիլ
+calendar:May,May,Մայիս
+calendar:June,June,Հունիս
+calendar:July,July,Հուլիս
+calendar:August,August,Օգոստոս
+calendar:September,September,Սեպտեմբեր
+calendar:October,October,Հոկտեմբեր
+calendar:November,November,Նոյեմբեր
+calendar:December,December,Դեկտեմբեր
+general:indicator,Metric,Ցուցանիշ
+general:indicators,Metrics,Ցուցանիշներ
+general:goal,Area,Նպատակը
+general:goals,Areas,Նպատակները
+general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
+general:home,Home,Գլխավոր էջ
+general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
+general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
+general:target,Topic,Թիրախը
+general:targets,Topics,Թիրախներ
+general:twitter,Twitter,Թվիթերի
+general:facebook,Facebook,Ֆեյսբուք
+general:built_using_open_sdg,Built using Open SDG,Կառուցվել է Open SDG օգտագործմամբ
+general:page,Page,ինտերնետային էջ
+general:pages,Pages,վեբ էջեր
