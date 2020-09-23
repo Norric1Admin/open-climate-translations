@@ -1,20 +1,20 @@
 1-1-1-title: Historic trends
 1-2-1-title: Change over time
-1-2-2-title: Global indicators (TBC)
 1-3-1-title: Severe weather events
 1-3-2-title: Flooding occurence
-2-1-1-title: Estimated territorial greenhouse gas emissions by gas
-2-1-2-title: UK annual emissions of some pollutants / Concentrations in the atmosphere (TBC)
+2-1-1-title: Estimated greenhouse gas and short-lived climate pollutant (SLCP) emissions
+2-1-2-title: CO2 emissions per unit of value added
+2-1-3-title: Concentrations of other (non-climate-forcing) pollutants
+2-2-1-title: Urban solid waste
+2-2-2-title: Hazardous waste and chemicals
 3-1-1-title: Total GHG emissions by sector
 3-2-1-title: Raw material consumption
 3-3-1-title: Land cover and degraded land area
 3-3-2-title: Soil and peatland health
-3-3-3-title: Extent of protected area (TBC)
-3-4-1-title: Population (historic)
-3-4-2-title: Population (projections)
-3-5-1-title: Energy supply by source (TBC)
-3-5-2-title: Energy intensity (TBC)
-3-5-3-title: Energy and pollution consumption (TBC)
+3-4-1-title: Energy supply by source
+3-4-2-title: Energy intensity
+3-4-3-title: Energy and pollution consumption
+3-4-4-title: Footprints
 4-1-1-title: Drought
 4-1-2-title: Heat waves
 4-1-3-title: Storms and gales
@@ -24,43 +24,30 @@
 4-2-2-title: Rural background concentrations of ozone
 4-2-3-title: Roadside nitrogen dioxide concentrations
 4-2-4-title: Clean air indicators
-4-3-1-title: Water
-4-3-2-title: Seas and Estuaries
-4-3-3-title: Wildlife
-4-4-1-title: Abatement of the number of invasive non-native species entering and 
-  establishing against a baseline
+4-3-1-title: Water ecosystem condition
+4-3-2-title: Marine and estuarine  ecosystem condition
+4-3-3-title: Biodiversity
+4-4-1-title: Abatement of the number of invasive non-native species entering and establishing against a baseline
 4-4-2-title: Distribution of invasive non-native species and plant pests and diseases
-5-1-1-title: Footprints
-5-1-2-title: Sustainable household expenditure
-5-1-3-title: Circular economy
+5-1-1-title: Sustainable household expenditure
+5-1-2-title: Circular economy
 5-2-1-title: Green jobs
 5-2-2-title: Business
 5-2-3-title: Government
-5-3-1-title: Population projection
-5-3-2-title: Variables that transform the projections
-5-4-1-title: Climate change mitigation expenditure
-5-4-2-title: Green R&D
-5-4-3-title: Number of countries with sustainable consumption and production (SCP)
-  national action plans or SCP mainstreamed as a priority or a target into national policies
-5-4-4-title: Extent to which (i) global citizenship education and (ii) education for
-  sustainable development (including climate change education) are mainstreamed in
-  (a) national education policies; (b) curricula; (c) teacher education;
-  and (d) student assessment
-5-4-5-title: Number of countries that have communicated the strengthening of institutional,
-  systemic and individual capacity-building to implement adaptation, mitigation and
-  technology transfer, and development actions
-5-4-6-title: Proportion of national exclusive economic zones managed using
-  ecosystem-based approaches
-5-4-7-title: Progress by countries in the degree of implementation of international
-  instruments aiming to combat illegal, unreported and unregulated fishing
-5-4-8-title: Progress towards sustainable forest management
-5-5-1-title: Investments in energy efficiency as a proportion of GDP and the amount
-  of foreign direct investment in financial transfer for infrastructure and technology
-  to sustainable development services
-5-5-2-title: Amount of fossil-fuel subsidies per unit of GDP (production and consumption)
-  and as a proportion of total national expenditure on fossil fuels
-5-5-3-title: Official development assistance and public expenditure on conservation and
-  sustainable use of biodiversity and ecosystems
+5-3-1-title:  Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies
+5-3-2-title:  Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment
+5-3-3-title:  Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions
+5-3-4-title:  Proportion of national exclusive economic zones managed using ecosystem-based approaches
+5-3-5-title:  Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing
+5-3-6-title:  Progress towards sustainable forest management
+5-3-7-title: Number of companies publishing sustainability reports
+5-4-1-title: Terrestrial protected area
+5-4-2-title: Marine protected area
+5-4-3-title: Freshwater protected area
+5-5-1-title:  Climate change mitigation expenditure
+5-5-2-title:  Green R&D
+5-5-3-title:  Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services
+5-5-4-title:  Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels
 6-1-1-title: Water security
 6-1-2-title: Terrestrial habitats
 6-1-3-title: Freshwater habitats
@@ -88,4 +75,6 @@
 6-5-4-title: Business opportunities from climate change
 6-6-1-title: Disaster planning and strategies
 6-6-2-title: Early warning systems
-7-1-1-title: Temperature
+7-1-1-title: Historic population
+7-1-2-title: Population projections
+7-1-3-title: Population growth projections
