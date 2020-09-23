@@ -67,20 +67,20 @@ status:status_by_field,Status by %field,الحالة بواسطة %field
 global_targets:1-1-title,UK Climate Series,UK Climate Series
 global_targets:1-2-title,UK Climate Projections,UK Climate Projections
 global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
-global_targets:2-1-title,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions,Green house Gas emissions and Short-lived climate pollutant (SLCP) emissions
+global_targets:2-1-title,Atmospheric pollution,Atmospheric pollution
+global_targets:2-2-title,Non-atmospheric pollution,Non-atmospheric pollution
 global_targets:3-1-title,GHG activities,GHG activities
 global_targets:3-2-title,Inefficient use of materials,Inefficient use of materials
 global_targets:3-3-title,Depletion of natural capital,Depletion of natural capital
-global_targets:3-4-title,Population,Population
-global_targets:3-5-title,Energy statistics,Energy statistics
+global_targets:3-4-title,Energy statistics,Energy statistics
 global_targets:4-1-title,Disruption or unwanted impacts,Disruption or unwanted impacts
 global_targets:4-2-title,Air Quality,Air Quality
 global_targets:4-3-title,Ecosystem condition and biodiversity,Ecosystem condition and biodiversity
 global_targets:4-4-title,Spread of climate-sensitive pests and diseases,Spread of climate-sensitive pests and diseases
 global_targets:5-1-title,Energy and material efficiency,Energy and material efficiency
 global_targets:5-2-title,Green economy,Green economy
-global_targets:5-3-title,Population growth,Population growth
-global_targets:5-4-title,"Governance, regulation and education","Governance, regulation and education"
+global_targets:5-3-title,"Governance, regulation and education","Governance, regulation and education"
+global_targets:5-4-title,Protected area extent,Protected area extent
 global_targets:5-5-title,Expenditure and investment,Expenditure and investment
 global_targets:6-1-title,Natural environmental resilience,Natural environmental resilience
 global_targets:6-2-title,Commercial natural environment,Commercial natural environment
@@ -88,7 +88,7 @@ global_targets:6-3-title,People and the built environment,People and the built e
 global_targets:6-4-title,Critical infrastructure,Critical infrastructure
 global_targets:6-5-title,Business,Business
 global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
-global_targets:7-1-title,Contextual metrics,Contextual metrics
+global_targets:7-1-title,Population,Population
 post:posts_by_category,Posts by Category,المنشورات حسب الفئة
 post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
 search:search,Search,بحث
@@ -127,21 +127,21 @@ calendar:November,November,شهر نوفمبر
 calendar:December,December,ديسمبر
 global_indicators:1-1-1-title,Historic trends,Historic trends
 global_indicators:1-2-1-title,Change over time,Change over time
-global_indicators:1-2-2-title,Global indicators (TBC),Global indicators (TBC)
 global_indicators:1-3-1-title,Severe weather events,Severe weather events
 global_indicators:1-3-2-title,Flooding occurence,Flooding occurence
-global_indicators:2-1-1-title,Estimated territorial greenhouse gas emissions by gas,Estimated territorial greenhouse gas emissions by gas
-global_indicators:2-1-2-title,UK annual emissions of some pollutants / Concentrations in the atmosphere (TBC),UK annual emissions of some pollutants / Concentrations in the atmosphere (TBC)
+global_indicators:2-1-1-title,Estimated greenhouse gas and short-lived climate pollutant (SLCP) emissions,Estimated greenhouse gas and short-lived climate pollutant (SLCP) emissions
+global_indicators:2-1-2-title,CO2 emissions per unit of value added,CO2 emissions per unit of value added
+global_indicators:2-1-3-title,Concentrations of other (non-climate-forcing) pollutants,Concentrations of other (non-climate-forcing) pollutants
+global_indicators:2-2-1-title,Urban solid waste,Urban solid waste
+global_indicators:2-2-2-title,Hazardous waste and chemicals,Hazardous waste and chemicals
 global_indicators:3-1-1-title,Total GHG emissions by sector,Total GHG emissions by sector
 global_indicators:3-2-1-title,Raw material consumption,Raw material consumption
 global_indicators:3-3-1-title,Land cover and degraded land area,Land cover and degraded land area
 global_indicators:3-3-2-title,Soil and peatland health,Soil and peatland health
-global_indicators:3-3-3-title,Extent of protected area (TBC),Extent of protected area (TBC)
-global_indicators:3-4-1-title,Population (historic),Population (historic)
-global_indicators:3-4-2-title,Population (projections),Population (projections)
-global_indicators:3-5-1-title,Energy supply by source (TBC),Energy supply by source (TBC)
-global_indicators:3-5-2-title,Energy intensity (TBC),Energy intensity (TBC)
-global_indicators:3-5-3-title,Energy and pollution consumption (TBC),Energy and pollution consumption (TBC)
+global_indicators:3-4-1-title,Energy supply by source,Energy supply by source
+global_indicators:3-4-2-title,Energy intensity,Energy intensity
+global_indicators:3-4-3-title,Energy and pollution consumption,Energy and pollution consumption
+global_indicators:3-4-4-title,Footprints,Footprints
 global_indicators:4-1-1-title,Drought,Drought
 global_indicators:4-1-2-title,Heat waves,Heat waves
 global_indicators:4-1-3-title,Storms and gales,Storms and gales
@@ -151,30 +151,30 @@ global_indicators:4-2-1-title,"Concentrations of GHG and pollutants in the atmos
 global_indicators:4-2-2-title,Rural background concentrations of ozone,Rural background concentrations of ozone
 global_indicators:4-2-3-title,Roadside nitrogen dioxide concentrations,Roadside nitrogen dioxide concentrations
 global_indicators:4-2-4-title,Clean air indicators,Clean air indicators
-global_indicators:4-3-1-title,Water,Water
-global_indicators:4-3-2-title,Seas and Estuaries,Seas and Estuaries
-global_indicators:4-3-3-title,Wildlife,Wildlife
+global_indicators:4-3-1-title,Water ecosystem condition,Water ecosystem condition
+global_indicators:4-3-2-title,Marine and estuarine  ecosystem condition,Marine and estuarine  ecosystem condition
+global_indicators:4-3-3-title,Biodiversity,Biodiversity
 global_indicators:4-4-1-title,Abatement of the number of invasive non-native species entering and establishing against a baseline,Abatement of the number of invasive non-native species entering and establishing against a baseline
 global_indicators:4-4-2-title,Distribution of invasive non-native species and plant pests and diseases,Distribution of invasive non-native species and plant pests and diseases
-global_indicators:5-1-1-title,Footprints,Footprints
-global_indicators:5-1-2-title,Sustainable household expenditure,Sustainable household expenditure
-global_indicators:5-1-3-title,Circular economy,Circular economy
+global_indicators:5-1-1-title,Sustainable household expenditure,Sustainable household expenditure
+global_indicators:5-1-2-title,Circular economy,Circular economy
 global_indicators:5-2-1-title,Green jobs,Green jobs
 global_indicators:5-2-2-title,Business,Business
 global_indicators:5-2-3-title,Government,Government
-global_indicators:5-3-1-title,Population projection,Population projection
-global_indicators:5-3-2-title,Variables that transform the projections,Variables that transform the projections
-global_indicators:5-4-1-title,Climate change mitigation expenditure,Climate change mitigation expenditure
-global_indicators:5-4-2-title,Green R&D,Green R&D
-global_indicators:5-4-3-title,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies
-global_indicators:5-4-4-title,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment
-global_indicators:5-4-5-title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions","Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions"
-global_indicators:5-4-6-title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,Proportion of national exclusive economic zones managed using ecosystem-based approaches
-global_indicators:5-4-7-title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing","Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
-global_indicators:5-4-8-title,Progress towards sustainable forest management,Progress towards sustainable forest management
-global_indicators:5-5-1-title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services
-global_indicators:5-5-2-title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels
-global_indicators:5-5-3-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems
+global_indicators:5-3-1-title,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies
+global_indicators:5-3-2-title,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment
+global_indicators:5-3-3-title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions","Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions"
+global_indicators:5-3-4-title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,Proportion of national exclusive economic zones managed using ecosystem-based approaches
+global_indicators:5-3-5-title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing","Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
+global_indicators:5-3-6-title,Progress towards sustainable forest management,Progress towards sustainable forest management
+global_indicators:5-3-7-title,Number of companies publishing sustainability reports,Number of companies publishing sustainability reports
+global_indicators:5-4-1-title,Terrestrial protected area,Terrestrial protected area
+global_indicators:5-4-2-title,Marine protected area,Marine protected area
+global_indicators:5-4-3-title,Freshwater protected area,Freshwater protected area
+global_indicators:5-5-1-title,Climate change mitigation expenditure,Climate change mitigation expenditure
+global_indicators:5-5-2-title,Green R&D,Green R&D
+global_indicators:5-5-3-title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services
+global_indicators:5-5-4-title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels
 global_indicators:6-1-1-title,Water security,Water security
 global_indicators:6-1-2-title,Terrestrial habitats,Terrestrial habitats
 global_indicators:6-1-3-title,Freshwater habitats,Freshwater habitats
@@ -202,21 +202,23 @@ global_indicators:6-5-3-title,Water demand by industry,Water demand by industry
 global_indicators:6-5-4-title,Business opportunities from climate change,Business opportunities from climate change
 global_indicators:6-6-1-title,Disaster planning and strategies,Disaster planning and strategies
 global_indicators:6-6-2-title,Early warning systems,Early warning systems
-global_indicators:7-1-1-title,Temperature,Temperature
+global_indicators:7-1-1-title,Historic population,Historic population
+global_indicators:7-1-2-title,Population projections,Population projections
+global_indicators:7-1-3-title,Population growth projections,Population growth projections
 global_goals:1-short,Climate and weather,Climate and weather
-global_goals:1-title,Climate and weather description,Climate and weather
+global_goals:1-title,"Metrics relating to the UK climate series and projections, and the impacts of climate-related disasters.","Metrics relating to the UK climate series and projections, and the impacts of climate-related disasters."
 global_goals:2-short,Emissions,Emissions
-global_goals:2-title,Emissions description,Emissions
+global_goals:2-title,"Metrics relating to atmospheric pollutants, and other forms of hazardous and non-hazardous waste.","Metrics relating to atmospheric pollutants, and other forms of hazardous and non-hazardous waste."
 global_goals:3-short,Drivers,Drivers
-global_goals:3-title,Drivers description,Drivers
+global_goals:3-title,Metrics detailing the various factors that contribute to climate change in the UK.,Metrics detailing the various factors that contribute to climate change in the UK.
 global_goals:4-short,Impacts,Impacts
-global_goals:4-title,Impacts description,Impacts
+global_goals:4-title,Metrics detailing the impacts of climate change in the UK.,Metrics detailing the impacts of climate change in the UK.
 global_goals:5-short,Mitigation,Mitigation
-global_goals:5-title,Mitigation description,Mitigation
+global_goals:5-title,Metrics detailing the projects and strategies being used to mitigate climate change in the UK.,Metrics detailing the projects and strategies being used to mitigate climate change in the UK.
 global_goals:6-short,Adaption,Adaption
-global_goals:6-title,Adaption description,Adaption
-global_goals:7-short,Contextual,Contextual
-global_goals:7-title,Contextual description,Contextual
+global_goals:6-title,Metrics detailing the measures being used to build resilience and adapt to the effects of climate change in the UK.,Metrics detailing the measures being used to build resilience and adapt to the effects of climate change in the UK.
+global_goals:7-short,Contextual Metrics,Contextual Metrics
+global_goals:7-title,"Metrics that fall outside the scope of the other categories, but relate to them and provide useful context.","Metrics that fall outside the scope of the other categories, but relate to them and provide useful context."
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
 frontpage:heading,%name data for UK Climate Change-related Statistics,%name بيانات لمؤشرات اهداف التنمية المستدامة
 frontpage:download_all,Download all data,تنزيل جميع البيانات

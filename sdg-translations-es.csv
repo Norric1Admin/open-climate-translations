@@ -106,7 +106,7 @@ global_goals:3-short,Drivers,Drivers
 global_goals:4-short,Impacts,Impacts
 global_goals:5-short,Mitigation,Mitigation
 global_goals:6-short,Adaption,Adaption
-global_goals:7-short,Contextual,Contextual
+global_goals:7-short,Contextual Metrics,Contextual Metrics
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.","Haga clic en cada objetivo, o %before_link busque, %after_link para las estadísticas %name para Objetivo de desarrollo sostenible global indicadores."
 frontpage:heading,%name data for UK Climate Change-related Statistics,Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible
 frontpage:download_all,Download all data,Descargar todos los datos
