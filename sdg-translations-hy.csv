@@ -9,6 +9,7 @@ header:enable_high_contrast,Enable high contrast,Միացնել բարձր հա�
 header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
 menu:menu,Menu,Ցանկ
 menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+menu:home,Home,
 menu:about,About,Վերաբերյալ
 menu:publications,Publications,Հրապարակումներ
 menu:guidance,Guidance,Ուղեցույց

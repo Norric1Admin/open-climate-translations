@@ -9,6 +9,7 @@ header:enable_high_contrast,Enable high contrast,Aktivieren Sie hohen Kontrast
 header:disable_high_contrast,Disable high contrast,Hoher Kontrast deaktivieren
 menu:menu,Menu,Menü
 menu:reporting_status,Reporting Status,Berichtsstatus
+menu:home,Home,
 menu:about,About,Über uns
 menu:publications,Publications,Veröffentlichungen
 menu:guidance,Guidance,Technische Hinweise

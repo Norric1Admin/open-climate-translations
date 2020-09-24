@@ -9,6 +9,7 @@ header:enable_high_contrast,Enable high contrast,启用高对比度
 header:disable_high_contrast,Disable high contrast,禁用高对比度
 menu:menu,Menu,目录
 menu:reporting_status,Reporting Status,上报状况
+menu:home,Home,
 menu:about,About,关于
 menu:publications,Publications,出版物
 menu:guidance,Guidance,指引

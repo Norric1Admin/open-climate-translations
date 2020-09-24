@@ -9,6 +9,7 @@ header:enable_high_contrast,Enable high contrast,تمكين التباين ال�
 header:disable_high_contrast,Disable high contrast,تعطيل التباين العالي
 menu:menu,Menu,قائمة
 menu:reporting_status,Reporting Status,حالة التقارير
+menu:home,Home,
 menu:about,About,عن
 menu:publications,Publications,منشورات
 menu:guidance,Guidance,توجيه

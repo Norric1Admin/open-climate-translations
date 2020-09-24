@@ -9,6 +9,7 @@ header:enable_high_contrast,Enable high contrast,Жоғары контрастт
 header:disable_high_contrast,Disable high contrast,Жоғары контрастты ажыратыңыз
 menu:menu,Menu,Меню
 menu:reporting_status,Reporting Status,Есептіліктің жағдайы
+menu:home,Home,
 menu:about,About,Біз туралы
 menu:publications,Publications,Жарияланымдар
 menu:guidance,Guidance,Басшылық
