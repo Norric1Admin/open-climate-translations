@@ -1,70 +1,4 @@
 ﻿key,en,ar
-header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
-header:alpha,Alpha,ألفا
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"
-header:tag_line,UK Climate Change-related Statistics,17 اهداف لتحويل عالمنا
-header:high_contrast,High contrast,تباين عالي
-header:default_contrast,Default contrast,النقيض الافتراضي
-header:enable_high_contrast,Enable high contrast,تمكين التباين العالي
-header:disable_high_contrast,Disable high contrast,تعطيل التباين العالي
-menu:menu,Menu,قائمة
-menu:reporting_status,Reporting Status,حالة التقارير
-menu:home,Home,
-menu:about,About,عن
-menu:publications,Publications,منشورات
-menu:guidance,Guidance,توجيه
-menu:faq,FAQ,أسئلة شائعة
-menu:contact_us,Contact us,اتصل بنا
-menu:cookies,Cookies,ملفات تعريف الارتباط
-menu:updates,Updates,
-indicator:select_all,Select all,اختيار الكل
-indicator:clear_all,Clear all,ازالة الكل
-indicator:clear_selections,Clear selections,إزالة المحدد
-indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
-indicator:no_data_hint,No options available because of filters above,لا تتوفر خيارات بسبب الفلاتر الاعلى 
-indicator:download_headline,Download Headline CSV,تحميل CSV الخط الرئيسي 
-indicator:download_headline_title,Download headline data as CSV,تحميل بيانات CSV الخط الرئيسي
-indicator:download_source,Download Source CSV,تحميل مصدر الCSV
-indicator:download_source_title,Download source data as CSV,تحميل بيانات مصدر الCSV
-indicator:download_chart,Download Chart CSV,تحميل المخطط الCSV
-indicator:download_table,Download Table CSV,تحميل جدول CSV
-indicator:download_csv,Download CSV,تحميل الCSV
-indicator:download_csv_title,Download as CSV,تحميل كCSV
-indicator:download_chart_image,Download Chart Image,تحميل الرسم البياني الصورة
-indicator:download_chart_image_title,Download chart as image,تحميل الرسم البياني كصورة
-indicator:download_geojson,Download GeoJSON,تحميل الGeoJSON
-indicator:download_geojson_title,Download as GeoJSON,تحميل كGeoJSON
-indicator:source,Source,مصدر
-indicator:sources,Sources,مصادر
-indicator:geographical_area,Geographical Area,المنطقة الجغرافية
-indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
-indicator:footnote,Footnote,حاشية
-indicator:units_type,Units type,نوع الوحدات
-indicator:series,Series,مجموعة
-indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل بعضها.
-indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
-indicator:sub_categories,Sub-categories,فئات فرعية
-indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها لن تكون متاحة حتى يتم اختيار مستوى اعلى
-indicator:legend_help,Click on the legend to remove individual lines from the chart.,انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
-indicator:chart,Chart,مخطط
-indicator:table,Table,جدول
-indicator:map,Map,خريطة
-indicator:loading_map,Loading map,تحميل الخريطة
-indicator:national_metadata,National Metadata,البيانات الوصفية الوطنية
-indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات الشرحية الخاصة ب%country_adjective
-indicator:global_metadata,Global Metadata,البيانات الوصفية العالمية
-indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",رابط الى البيانات الوصفية للأمم المتحدة
-indicator:edit,Edit,تغيير
-indicator:edit_data,Edit Data,تغيير البيانات
-indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
-status:reporting_status,Reporting Status,وضع الاعلان
-status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
-status:reported_online,Published,اعلن على الانترنت
-status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
-status:exploring_data_sources,Not published,استكشاف مصادر البيانات
-status:not_applicable,Not applicable,لايمكن تطبيقه
-status:status_by_goal,Status by area,الحالة حسب الهدف
-status:status_by_field,Status by %field,الحالة بواسطة %field
 global_targets:1-1-title,UK Climate Series,UK Climate Series
 global_targets:1-2-title,UK Climate Projections,UK Climate Projections
 global_targets:1-3-title,Severe weather events and hazards,Severe weather events and hazards
@@ -90,8 +24,99 @@ global_targets:6-4-title,Critical infrastructure,Critical infrastructure
 global_targets:6-5-title,Business,Business
 global_targets:6-6-title,Effective emergency planning systems,Effective emergency planning systems
 global_targets:7-1-title,Population,Population
+status:reporting_status,Reporting Status,وضع الاعلان
+status:overall_reporting_status,Overall Reporting Status,وضع الاعلان العام
+status:reported_online,Published,اعلن على الانترنت
+status:statistics_in_progress,Statistics in progress,الاحصائيات دائرة
+status:exploring_data_sources,Not published,استكشاف مصادر البيانات
+status:not_applicable,Not applicable,لايمكن تطبيقه
+status:status_by_goal,Status by area,الحالة حسب الهدف
+status:status_by_field,Status by %field,الحالة بواسطة %field
 post:posts_by_category,Posts by Category,المنشورات حسب الفئة
 post:view_all_in_category,View all posts in the %category_name category,عرض كل المنشورات في فئة %category_name
+metadata_fields:other_info,Other information,معلومات اخرى
+metadata_fields:computation_calculations,Calculations,عمليات حسابية
+metadata_fields:computation_definitions,Definitions,تعريفات
+metadata_fields:computation_units,Unit of measurement,وحدة قياس
+metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
+metadata_fields:indicator,Metric code,رقم المؤشر
+metadata_fields:indicator_definition,Global metric description,وصف المؤشر العالمي
+metadata_fields:indicator_name,Metric name,اسم المؤشر
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
+metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
+metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
+metadata_fields:national_indicator_available,Metric available,مؤشر متاح
+metadata_fields:national_indicator_description,Metric description,وصف المؤشر
+metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
+metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_3,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_4,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_5,Contact details,تفاصيل الاتصال
+metadata_fields:source_contact_6,Contact details,تفاصيل الاتصال
+metadata_fields:source_earliest_available_1,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_2,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_3,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_4,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_5,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_earliest_available_6,Earliest available data,احدث البيانات المتوفرة
+metadata_fields:source_geographical_coverage_1,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_2,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_3,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_4,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_5,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_geographical_coverage_6,Geographical coverage,التغطية الجغرافية
+metadata_fields:source_next_release_1,Next release,الاصدار التالي
+metadata_fields:source_next_release_2,Next release,الاصدار التالي
+metadata_fields:source_next_release_3,Next release,الاصدار التالي
+metadata_fields:source_next_release_4,Next release,الاصدار التالي
+metadata_fields:source_next_release_5,Next release,الاصدار التالي
+metadata_fields:source_next_release_6,Next release,الاصدار التالي
+metadata_fields:source_organisation_1,Organisation,منظمة
+metadata_fields:source_organisation_2,Organisation,منظمة
+metadata_fields:source_organisation_3,Organisation,منظمة
+metadata_fields:source_organisation_4,Organisation,منظمة
+metadata_fields:source_organisation_5,Organisation,منظمة
+metadata_fields:source_organisation_6,Organisation,منظمة
+metadata_fields:source_other_info_1,Other information,معلومات اخرى
+metadata_fields:source_other_info_2,Other information,معلومات اخرى
+metadata_fields:source_other_info_3,Other information,معلومات اخرى
+metadata_fields:source_other_info_4,Other information,معلومات اخرى
+metadata_fields:source_other_info_5,Other information,معلومات اخرى
+metadata_fields:source_other_info_6,Other information,معلومات اخرى
+metadata_fields:source_periodicity_1,Periodicity,دورية
+metadata_fields:source_periodicity_2,Periodicity,دورية
+metadata_fields:source_periodicity_3,Periodicity,دورية
+metadata_fields:source_periodicity_4,Periodicity,دورية
+metadata_fields:source_periodicity_5,Periodicity,دورية
+metadata_fields:source_periodicity_6,Periodicity,دورية
+metadata_fields:source_release_date_1,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_2,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_3,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_4,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_5,Release date,تاريخ الاصدار
+metadata_fields:source_release_date_6,Release date,تاريخ الاصدار
+metadata_fields:source_statistical_classification_1,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_2,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_3,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_4,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_5,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_statistical_classification_6,Statistical classification,التصنيف الإحصائي
+metadata_fields:source_url_1,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_2,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_3,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
+metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
+metadata_fields:target,Topic name,اسم الهدف
+metadata_fields:target_id,Topic number,رقم الهدف
+metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
+metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
+metadata_fields:quality_assurance,Quality assurance,ضمان الجودة
+metadata_fields:international_comparability,Comparability with international data/standards,المقارنة مع البيانات / المعايير الدولية
+metadata_fields:comments_limitations,Comments and limitations,التعليقات والقيود
+metadata_fields:rational_interpretation,Rational and interpretation,العقلاني والتفسير
+metadata_fields:copyright,Copyright,حقوق النشر
 search:search,Search,بحث
 search:indicator_search,Indicator search,بحث المؤشر
 search:search_results_for,Search results for,نتائج البحث عن
@@ -99,33 +124,6 @@ search:found_in,found in,موجود في
 search:keywords,Keywords,الكلمات الدالة
 search:no_results,No results,لا يوجد نتائج
 search:did_you_mean,did you mean,هل تعني
-general:indicator,Metric,مؤشر
-general:indicators,Metrics,مؤشرات
-general:goal,Area,هدف
-general:goals,Areas,اهداف
-general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
-general:home,Home,الصفحة الرئيسية  (Home page)
-general:loading,Loading search results,تحميل نتائج البحث
-general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
-general:target,Topic,استهداف
-general:targets,Topics,أهداف
-general:twitter,Twitter,تويتر
-general:facebook,Facebook,فيسبوك
-general:built_using_open_sdg,Built using Open SDG,بنيت باستخدام Open SDG
-general:page,Page,صفحة ويب
-general:pages,Pages,صفحات الانترنت
-calendar:January,January,كانون الثاني
-calendar:February,February,شهر فبراير
-calendar:March,March,مارس
-calendar:April,April,أبريل
-calendar:May,May,قد
-calendar:June,June,يونيو
-calendar:July,July,يوليو
-calendar:August,August,أغسطس
-calendar:September,September,سبتمبر
-calendar:October,October,اكتوبر
-calendar:November,November,شهر نوفمبر
-calendar:December,December,ديسمبر
 global_indicators:1-1-1-title,Historic trends,Historic trends
 global_indicators:1-2-1-title,Change over time,Change over time
 global_indicators:1-3-1-title,Severe weather events,Severe weather events
@@ -220,92 +218,94 @@ global_goals:6-short,Adaption,Adaption
 global_goals:6-title,Metrics detailing the measures being used to build resilience and adapt to the effects of climate change in the UK.,Metrics detailing the measures being used to build resilience and adapt to the effects of climate change in the UK.
 global_goals:7-short,Contextual Metrics,Contextual Metrics
 global_goals:7-title,"Metrics that fall outside the scope of the other categories, but relate to them and provide useful context.","Metrics that fall outside the scope of the other categories, but relate to them and provide useful context."
+indicator:select_all,Select all,اختيار الكل
+indicator:clear_all,Clear all,ازالة الكل
+indicator:clear_selections,Clear selections,إزالة المحدد
+indicator:variable_hint,Available when '%field' is selected,متاح عند تحديد '%field' 
+indicator:no_data_hint,No options available because of filters above,لا تتوفر خيارات بسبب الفلاتر الاعلى 
+indicator:download_headline,Download Headline CSV,تحميل CSV الخط الرئيسي 
+indicator:download_headline_title,Download headline data as CSV,تحميل بيانات CSV الخط الرئيسي
+indicator:download_source,Download Source CSV,تحميل مصدر الCSV
+indicator:download_source_title,Download source data as CSV,تحميل بيانات مصدر الCSV
+indicator:download_chart,Download Chart CSV,تحميل المخطط الCSV
+indicator:download_table,Download Table CSV,تحميل جدول CSV
+indicator:download_csv,Download CSV,تحميل الCSV
+indicator:download_csv_title,Download as CSV,تحميل كCSV
+indicator:download_chart_image,Download Chart Image,تحميل الرسم البياني الصورة
+indicator:download_chart_image_title,Download chart as image,تحميل الرسم البياني كصورة
+indicator:download_geojson,Download GeoJSON,تحميل الGeoJSON
+indicator:download_geojson_title,Download as GeoJSON,تحميل كGeoJSON
+indicator:source,Source,مصدر
+indicator:sources,Sources,مصادر
+indicator:geographical_area,Geographical Area,المنطقة الجغرافية
+indicator:unit_of_measurement,Unit of Measurement,وحدة قياس
+indicator:footnote,Footnote,حاشية
+indicator:units_type,Units type,نوع الوحدات
+indicator:series,Series,مجموعة
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,هناك عدد كبير من البيانات المحددة. لن يتم عرض الكل حتى تزيل بعضها.
+indicator:view_indicator_list,View this goal's indicator list,عرض قائمة المؤشرات لهذا الهدف
+indicator:sub_categories,Sub-categories,فئات فرعية
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,اختر فئات من القوائم المندسلة ادناه لرؤية تركيبات مختلفة للبيانات. بعضها لن تكون متاحة حتى يتم اختيار مستوى اعلى
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,انقر على وسيلة الايضاح لازالة أسطر فردية من المخطط
+indicator:chart,Chart,مخطط
+indicator:table,Table,جدول
+indicator:map,Map,خريطة
+indicator:loading_map,Loading map,تحميل الخريطة
+indicator:national_metadata,National Metadata,البيانات الوصفية الوطنية
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.",هذا الجدول يقدم بيانات وصفية للمؤشر المتاح من احصائيات %country_name الاقرب الى مؤشر الاهداف التنمية المستدامة العالمية المناظر. يرجى الملاحظة انه تحتى عندما يكون المؤشر متاحاً بالكامل من احصائيات %country_adjective، ينبغي استشارة هذا الجدول للحصول على معلومات حول المنهجية الوطنية وغيرها من المعلومات المتعلقة بالبيانات الشرحية الخاصة ب%country_adjective
+indicator:global_metadata,Global Metadata,البيانات الوصفية العالمية
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.",رابط الى البيانات الوصفية للأمم المتحدة
+indicator:edit,Edit,تغيير
+indicator:edit_data,Edit Data,تغيير البيانات
+indicator:edit_metadata,Edit Metadata,تغيير البيانات الوصفية
+header:skip_link,Skip to main content,انتقل الى المحتويات الرئيسية
+header:alpha,Alpha,ألفا
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","هذا موقع تطوير. نرحب <a href=""mailto:%email_address""> بتعليقاتكم </a>"
+header:tag_line,UK Climate Change-related Statistics,17 اهداف لتحويل عالمنا
+header:high_contrast,High contrast,تباين عالي
+header:default_contrast,Default contrast,النقيض الافتراضي
+header:enable_high_contrast,Enable high contrast,تمكين التباين العالي
+header:disable_high_contrast,Disable high contrast,تعطيل التباين العالي
+menu:menu,Menu,قائمة
+menu:reporting_status,Reporting Status,حالة التقارير
+menu:home,Home,
+menu:about,About,عن
+menu:publications,Publications,منشورات
+menu:guidance,Guidance,توجيه
+menu:faq,FAQ,أسئلة شائعة
+menu:contact_us,Contact us,اتصل بنا
+menu:cookies,Cookies,ملفات تعريف الارتباط
+menu:updates,Updates,
+general:indicator,Metric,مؤشر
+general:indicators,Metrics,مؤشرات
+general:goal,Area,هدف
+general:goals,Areas,اهداف
+general:sdg,Sustainable Development Goals,اهداف التنمية المستدامة
+general:home,Home,الصفحة الرئيسية  (Home page)
+general:loading,Loading search results,تحميل نتائج البحث
+general:opens_new_window,opens in a new window,تنفتح في نافذة جديدة
+general:target,Topic,استهداف
+general:targets,Topics,أهداف
+general:twitter,Twitter,تويتر
+general:facebook,Facebook,فيسبوك
+general:built_using_open_sdg,Built using Open SDG,بنيت باستخدام Open SDG
+general:page,Page,صفحة ويب
+general:pages,Pages,صفحات الانترنت
 frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Environmental Statistics measures.",انقر على كل هدف %before_link او ابحث عن %after_link احصائيات %name الخاصة بالمؤشرات العالمية لأهداف التنمية المستدامة
 frontpage:heading,%name data for UK Climate Change-related Statistics,%name بيانات لمؤشرات اهداف التنمية المستدامة
 frontpage:download_all,Download all data,تنزيل جميع البيانات
 frontpage:zip_file,ZIP file,ملف مضغوط
 frontpage:intro_title,UK Climate Change-related Statistics,17 هدفا لتحويل عالمنا
 frontpage:intro_body,The open-climate platform is under construction.,إن أهداف التنمية المستدامة (SDGs) هي دعوة عالمية للعمل من أجل القضاء على الفقر وحماية الكوكب وتحسين حياة وآفاق الجميع في كل مكان. تم اعتماد الأهداف الـ 17 من قبل جميع الدول الأعضاء في الأمم المتحدة في عام 2015 ، كجزء من خطة التنمية المستدامة لعام 2030.
-metadata_fields:other_info,Other information,معلومات اخرى
-metadata_fields:computation_calculations,Calculations,عمليات حسابية
-metadata_fields:computation_definitions,Definitions,تعريفات
-metadata_fields:computation_units,Unit of measurement,وحدة قياس
-metadata_fields:goal_meta_link,Link to UN metadata,رابط الى البيانات الوصفية للامم المتحدة
-metadata_fields:indicator,Metric code,رقم المؤشر
-metadata_fields:indicator_definition,Global metric description,وصف المؤشر العالمي
-metadata_fields:indicator_name,Metric name,اسم المؤشر
-metadata_fields:indicator_sort_order,Indicator display order (within Goal page),ترتيب عرض المؤشر (داخل صفحة الهدف)
-metadata_fields:national_data_update_url,Data last updated,آخر تحديث للبيانات
-metadata_fields:national_geographical_coverage,Geographical coverage,تغطية جغرافية
-metadata_fields:national_indicator_available,Metric available,مؤشر متاح
-metadata_fields:national_indicator_description,Metric description,وصف المؤشر
-metadata_fields:national_metadata_update_url,Metadata last updated,آخر تحديث للبيانات الوصفية
-metadata_fields:source_contact_1,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_2,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_3,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_4,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_5,Contact details,تفاصيل الاتصال
-metadata_fields:source_contact_6,Contact details,تفاصيل الاتصال
-metadata_fields:source_earliest_available_1,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_2,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_3,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_4,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_5,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_earliest_available_6,Earliest available data,احدث البيانات المتوفرة
-metadata_fields:source_geographical_coverage_1,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_2,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_3,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_4,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_5,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_geographical_coverage_6,Geographical coverage,التغطية الجغرافية
-metadata_fields:source_next_release_1,Next release,الاصدار التالي
-metadata_fields:source_next_release_2,Next release,الاصدار التالي
-metadata_fields:source_next_release_3,Next release,الاصدار التالي
-metadata_fields:source_next_release_4,Next release,الاصدار التالي
-metadata_fields:source_next_release_5,Next release,الاصدار التالي
-metadata_fields:source_next_release_6,Next release,الاصدار التالي
-metadata_fields:source_organisation_1,Organisation,منظمة
-metadata_fields:source_organisation_2,Organisation,منظمة
-metadata_fields:source_organisation_3,Organisation,منظمة
-metadata_fields:source_organisation_4,Organisation,منظمة
-metadata_fields:source_organisation_5,Organisation,منظمة
-metadata_fields:source_organisation_6,Organisation,منظمة
-metadata_fields:source_other_info_1,Other information,معلومات اخرى
-metadata_fields:source_other_info_2,Other information,معلومات اخرى
-metadata_fields:source_other_info_3,Other information,معلومات اخرى
-metadata_fields:source_other_info_4,Other information,معلومات اخرى
-metadata_fields:source_other_info_5,Other information,معلومات اخرى
-metadata_fields:source_other_info_6,Other information,معلومات اخرى
-metadata_fields:source_periodicity_1,Periodicity,دورية
-metadata_fields:source_periodicity_2,Periodicity,دورية
-metadata_fields:source_periodicity_3,Periodicity,دورية
-metadata_fields:source_periodicity_4,Periodicity,دورية
-metadata_fields:source_periodicity_5,Periodicity,دورية
-metadata_fields:source_periodicity_6,Periodicity,دورية
-metadata_fields:source_release_date_1,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_2,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_3,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_4,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_5,Release date,تاريخ الاصدار
-metadata_fields:source_release_date_6,Release date,تاريخ الاصدار
-metadata_fields:source_statistical_classification_1,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_2,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_3,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_4,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_5,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_statistical_classification_6,Statistical classification,التصنيف الإحصائي
-metadata_fields:source_url_1,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_2,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_3,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_4,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_5,Link to data source,رابط الى مصدر البيانات
-metadata_fields:source_url_6,Link to data source,رابط الى مصدر البيانات
-metadata_fields:target,Topic name,اسم الهدف
-metadata_fields:target_id,Topic number,رقم الهدف
-metadata_fields:un_custodian_agency,UN custodian agency,وكالة الوصاية للأم المتحدة
-metadata_fields:un_designated_tier,UN designated tier,الطبقة المعينة من الأمم المتحدة
-metadata_fields:quality_assurance,Quality assurance,ضمان الجودة
-metadata_fields:international_comparability,Comparability with international data/standards,المقارنة مع البيانات / المعايير الدولية
-metadata_fields:comments_limitations,Comments and limitations,التعليقات والقيود
-metadata_fields:rational_interpretation,Rational and interpretation,العقلاني والتفسير
-metadata_fields:copyright,Copyright,حقوق النشر
+calendar:January,January,كانون الثاني
+calendar:February,February,شهر فبراير
+calendar:March,March,مارس
+calendar:April,April,أبريل
+calendar:May,May,قد
+calendar:June,June,يونيو
+calendar:July,July,يوليو
+calendar:August,August,أغسطس
+calendar:September,September,سبتمبر
+calendar:October,October,اكتوبر
+calendar:November,November,شهر نوفمبر
+calendar:December,December,ديسمبر
